@@ -1,0 +1,512 @@
+HomeTeam,AwayTeam,HomeGoalCount,AwayGoalCount,BTTS,OverUnder
+Aldershot Town,Chesterfield,0,2,0,0
+Barnet,Notts County,0,5,0,1
+Halifax Town,Maidenhead United,1,2,1,1
+King's Lynn Town,Southend United,0,1,0,0
+Stockport County,Dagenham & Redbridge,1,3,1,1
+Torquay United,Altrincham,1,3,1,1
+Wealdstone,Woking,1,2,1,1
+Weymouth,Boreham Wood,0,2,0,0
+Solihull Moors,Wrexham,2,2,1,1
+Boreham Wood,Aldershot Town,1,0,0,0
+Chesterfield,Wealdstone,2,0,0,0
+Dagenham & Redbridge,Bromley,4,2,1,1
+Eastleigh,Wrexham,0,2,0,0
+Grimsby Town,Weymouth,1,0,0,0
+Maidenhead United,Dover Athletic,2,0,0,0
+Notts County,Torquay United,1,1,1,0
+Solihull Moors,Barnet,1,1,1,0
+Woking,Halifax Town,2,3,1,1
+Yeovil Town,King's Lynn Town,1,2,1,1
+Southend United,Stockport County,0,1,0,0
+Aldershot Town,Yeovil Town,1,2,1,1
+Barnet,Dagenham & Redbridge,0,2,0,0
+Bromley,Eastleigh,3,0,0,1
+Dover Athletic,Boreham Wood,0,1,0,0
+Halifax Town,Altrincham,2,0,0,0
+King's Lynn Town,Chesterfield,0,2,0,0
+Torquay United,Woking,0,4,0,1
+Wealdstone,Southend United,0,0,0,0
+Weymouth,Maidenhead United,3,1,1,1
+Wrexham,Notts County,1,1,1,0
+Stockport County,Grimsby Town,0,0,0,0
+Altrincham,Dover Athletic,3,2,1,1
+Boreham Wood,Stockport County,0,0,0,0
+Chesterfield,Bromley,2,2,1,1
+Dagenham & Redbridge,Wealdstone,2,2,1,1
+Eastleigh,King's Lynn Town,3,3,1,1
+Grimsby Town,Barnet,4,3,1,1
+Maidenhead United,Torquay United,3,4,1,1
+Notts County,Aldershot Town,3,2,1,1
+Solihull Moors,Weymouth,3,4,1,1
+Southend United,Wrexham,2,2,1,1
+Yeovil Town,Halifax Town,1,0,0,0
+Aldershot Town,Solihull Moors,1,2,1,1
+Barnet,Eastleigh,1,1,1,0
+Bromley,Boreham Wood,2,3,1,1
+Dover Athletic,Chesterfield,0,0,0,0
+Halifax Town,Southend United,3,1,1,1
+Stockport County,Yeovil Town,0,3,0,1
+Torquay United,Grimsby Town,1,3,1,1
+Wealdstone,Altrincham,1,0,0,0
+Weymouth,Notts County,1,1,1,0
+Wrexham,Woking,1,0,0,0
+King's Lynn Town,Dagenham & Redbridge,1,2,1,1
+Boreham Wood,Halifax Town,2,2,1,1
+Chesterfield,Barnet,4,2,1,1
+Dagenham & Redbridge,Weymouth,4,2,1,1
+Eastleigh,Dover Athletic,4,1,1,1
+Grimsby Town,Wrexham,3,1,1,1
+Maidenhead United,Stockport County,0,2,0,0
+Notts County,Wealdstone,3,2,1,1
+Solihull Moors,Torquay United,2,1,1,1
+Southend United,Aldershot Town,2,3,1,1
+Bromley,Barnet,2,0,0,0
+Halifax Town,Stockport County,3,0,0,1
+Grimsby Town,Eastleigh,2,0,0,0
+Notts County,Maidenhead United,1,0,0,0
+Solihull Moors,Boreham Wood,3,1,1,1
+Torquay United,Southend United,1,0,0,0
+Wealdstone,Aldershot Town,2,2,1,1
+Wrexham,Dagenham & Redbridge,1,0,0,0
+Yeovil Town,Chesterfield,0,2,0,0
+Weymouth,Dover Athletic,1,1,1,0
+Dover Athletic,Solihull Moors,0,0,0,0
+Aldershot Town,Halifax Town,0,1,0,0
+Altrincham,Notts County,1,0,0,0
+Barnet,Weymouth,3,1,1,1
+Boreham Wood,Yeovil Town,2,1,1,1
+Dagenham & Redbridge,Solihull Moors,5,1,1,1
+Dover Athletic,Bromley,0,1,0,0
+Eastleigh,Woking,3,2,1,1
+King's Lynn Town,Wealdstone,0,1,0,0
+Maidenhead United,Grimsby Town,1,1,1,0
+Stockport County,Wrexham,2,1,1,1
+Chesterfield,Torquay United,2,2,1,1
+Bromley,Grimsby Town,3,1,1,1
+Altrincham,King's Lynn Town,4,1,1,1
+Woking,Chesterfield,3,1,1,1
+Barnet,Halifax Town,0,0,0,0
+Dagenham & Redbridge,Altrincham,2,3,1,1
+Grimsby Town,Dover Athletic,6,0,0,1
+Maidenhead United,King's Lynn Town,2,3,1,1
+Notts County,Woking,1,4,1,1
+Solihull Moors,Southend United,2,0,0,0
+Torquay United,Wealdstone,5,0,0,1
+Weymouth,Stockport County,1,2,1,1
+Eastleigh,Boreham Wood,1,1,1,0
+Altrincham,Grimsby Town,2,3,1,1
+Boreham Wood,Torquay United,2,0,0,0
+Bromley,Weymouth,3,0,0,1
+Dover Athletic,Aldershot Town,1,2,1,1
+Halifax Town,Notts County,3,2,1,1
+King's Lynn Town,Barnet,1,1,1,0
+Southend United,Eastleigh,1,0,0,0
+Wealdstone,Solihull Moors,0,0,0,0
+Woking,Dagenham & Redbridge,1,0,0,0
+Wrexham,Chesterfield,1,1,1,0
+Yeovil Town,Maidenhead United,0,0,0,0
+Altrincham,Maidenhead United,2,0,0,0
+Boreham Wood,Dagenham & Redbridge,2,0,0,0
+Bromley,Torquay United,2,0,0,0
+Dover Athletic,Barnet,1,2,1,1
+Halifax Town,Weymouth,2,0,0,0
+King's Lynn Town,Solihull Moors,0,1,0,0
+Southend United,Chesterfield,0,4,0,1
+Stockport County,Aldershot Town,1,0,0,0
+Wealdstone,Eastleigh,1,2,1,1
+Woking,Grimsby Town,0,1,0,0
+Yeovil Town,Notts County,0,2,0,0
+Yeovil Town,Altrincham,1,1,1,0
+Aldershot Town,Bromley,2,3,1,1
+Barnet,Wrexham,0,3,0,1
+Chesterfield,Boreham Wood,2,1,1,1
+Dagenham & Redbridge,Southend United,3,0,0,1
+Eastleigh,Altrincham,2,1,1,1
+Grimsby Town,Yeovil Town,2,0,0,0
+Notts County,Stockport County,2,1,1,1
+Solihull Moors,Halifax Town,1,0,0,0
+Torquay United,King's Lynn Town,2,0,0,0
+Weymouth,Wealdstone,1,1,1,0
+Maidenhead United,Woking,3,2,1,1
+Aldershot Town,Weymouth,0,2,0,0
+Altrincham,Solihull Moors,1,2,1,1
+Chesterfield,Eastleigh,1,0,0,0
+Halifax Town,Dagenham & Redbridge,1,0,0,0
+King's Lynn Town,Boreham Wood,0,1,0,0
+Maidenhead United,Wrexham,3,2,1,1
+Notts County,Bromley,1,1,1,0
+Stockport County,Barnet,1,2,1,1
+Wealdstone,Grimsby Town,1,0,0,0
+Yeovil Town,Woking,2,0,0,0
+Boreham Wood,Southend United,1,0,0,0
+Bromley,Halifax Town,0,0,0,0
+Dagenham & Redbridge,Chesterfield,2,2,1,1
+Dover Athletic,Stockport County,2,5,1,1
+Eastleigh,Maidenhead United,1,0,0,0
+Grimsby Town,Notts County,0,1,0,0
+Solihull Moors,Yeovil Town,0,0,0,0
+Weymouth,King's Lynn Town,1,0,0,0
+Woking,Altrincham,3,2,1,1
+Wrexham,Torquay United,1,1,1,0
+Barnet,Aldershot Town,2,1,1,1
+Woking,Bromley,0,2,0,0
+Southend United,Dover Athletic,4,1,1,1
+Aldershot Town,Wrexham,0,5,0,1
+Aldershot Town,Grimsby Town,2,1,1,1
+Altrincham,Boreham Wood,1,1,1,0
+Chesterfield,Weymouth,4,0,0,1
+King's Lynn Town,Wrexham,2,6,1,1
+Maidenhead United,Dagenham & Redbridge,1,4,1,1
+Notts County,Solihull Moors,2,0,0,0
+Southend United,Woking,0,2,0,0
+Torquay United,Dover Athletic,2,1,1,1
+Wealdstone,Barnet,1,0,0,0
+Yeovil Town,Eastleigh,2,1,1,1
+Stockport County,Bromley,1,1,1,0
+Grimsby Town,Southend United,1,0,0,0
+Barnet,Torquay United,2,1,1,1
+Boreham Wood,Maidenhead United,4,0,0,1
+Bromley,King's Lynn Town,3,2,1,1
+Dagenham & Redbridge,Yeovil Town,0,1,0,0
+Dover Athletic,Halifax Town,1,3,1,1
+Eastleigh,Notts County,2,0,0,0
+Solihull Moors,Chesterfield,0,2,0,0
+Weymouth,Altrincham,1,4,1,1
+Woking,Stockport County,1,2,1,1
+Wrexham,Wealdstone,0,0,0,0
+Aldershot Town,Torquay United,1,0,0,0
+Boreham Wood,Notts County,1,1,1,0
+Bromley,Yeovil Town,1,2,1,1
+Chesterfield,Altrincham,2,2,1,1
+Dagenham & Redbridge,Eastleigh,0,1,0,0
+Dover Athletic,Wealdstone,2,3,1,1
+Halifax Town,Wrexham,1,2,1,1
+Solihull Moors,Grimsby Town,2,0,0,0
+Stockport County,King's Lynn Town,5,0,0,1
+Weymouth,Woking,2,3,1,1
+Altrincham,Southend United,1,2,1,1
+King's Lynn Town,Aldershot Town,0,1,0,0
+Torquay United,Halifax Town,2,3,1,1
+Wealdstone,Stockport County,1,4,1,1
+Woking,Barnet,1,2,1,1
+Wrexham,Bromley,2,0,0,0
+Yeovil Town,Dover Athletic,1,1,1,0
+Notts County,Dagenham & Redbridge,2,1,1,1
+Wrexham,Yeovil Town,0,2,0,0
+Aldershot Town,Altrincham,2,2,1,1
+Barnet,Maidenhead United,3,0,0,1
+Bromley,Wealdstone,3,2,1,1
+Dagenham & Redbridge,Grimsby Town,3,2,1,1
+Dover Athletic,Wrexham,0,1,0,0
+Solihull Moors,Woking,2,0,0,0
+Weymouth,Torquay United,1,2,1,1
+Southend United,Maidenhead United,1,1,1,0
+Altrincham,Bromley,0,1,0,0
+Eastleigh,Aldershot Town,0,3,0,1
+Grimsby Town,Chesterfield,0,1,0,0
+King's Lynn Town,Dover Athletic,2,1,1,1
+Maidenhead United,Solihull Moors,0,4,0,1
+Notts County,Southend United,4,1,1,1
+Torquay United,Stockport County,2,1,1,1
+Wealdstone,Halifax Town,0,1,0,0
+Woking,Boreham Wood,0,2,0,0
+Yeovil Town,Barnet,1,0,0,0
+Wrexham,Weymouth,1,0,0,0
+Eastleigh,Solihull Moors,0,0,0,0
+Halifax Town,King's Lynn Town,2,0,0,0
+Aldershot Town,Woking,1,1,1,0
+Dover Athletic,Dagenham & Redbridge,0,2,0,0
+Stockport County,Altrincham,5,1,1,1
+Torquay United,Yeovil Town,3,0,0,1
+Bromley,Southend United,1,1,1,0
+Altrincham,Wrexham,0,2,0,0
+Chesterfield,Halifax Town,1,1,1,0
+Dagenham & Redbridge,Aldershot Town,1,0,0,0
+Eastleigh,Torquay United,2,1,1,1
+Maidenhead United,Bromley,1,0,0,0
+Solihull Moors,Stockport County,0,1,0,0
+Woking,Dover Athletic,3,2,1,1
+Chesterfield,King's Lynn Town,1,0,0,0
+Boreham Wood,Barnet,0,0,0,0
+Dagenham & Redbridge,Dover Athletic,3,1,1,1
+Eastleigh,Weymouth,3,2,1,1
+Notts County,Wrexham,3,1,1,1
+Woking,Aldershot Town,2,3,1,1
+Yeovil Town,Torquay United,1,2,1,1
+Grimsby Town,Halifax Town,1,1,1,0
+Aldershot Town,Maidenhead United,1,1,1,0
+Barnet,Altrincham,1,1,1,0
+Bromley,Solihull Moors,2,1,1,1
+Halifax Town,Eastleigh,4,0,0,1
+Torquay United,Dagenham & Redbridge,2,2,1,1
+Weymouth,Southend United,0,1,0,0
+Southend United,Yeovil Town,2,1,1,1
+Halifax Town,Grimsby Town,1,0,0,0
+King's Lynn Town,Notts County,2,4,1,1
+Boreham Wood,Wealdstone,1,0,0,0
+Altrincham,Stockport County,1,4,1,1
+Barnet,Chesterfield,1,4,1,1
+Grimsby Town,Altrincham,2,0,0,0
+Wealdstone,Dover Athletic,2,1,1,1
+Maidenhead United,Chesterfield,3,2,1,1
+Stockport County,Eastleigh,3,0,0,1
+Southend United,King's Lynn Town,2,1,1,1
+Altrincham,Torquay United,1,2,1,1
+Boreham Wood,Weymouth,1,1,1,0
+Chesterfield,Aldershot Town,0,0,0,0
+Grimsby Town,Bromley,1,2,1,1
+Maidenhead United,Halifax Town,1,0,0,0
+Solihull Moors,Dover Athletic,5,0,0,1
+Woking,Wealdstone,2,0,0,0
+Yeovil Town,Wrexham,1,2,1,1
+Dagenham & Redbridge,Stockport County,0,2,0,0
+Aldershot Town,Southend United,1,1,1,0
+Bromley,Woking,1,0,0,0
+Dover Athletic,Eastleigh,1,0,0,0
+Halifax Town,Boreham Wood,0,1,0,0
+Stockport County,Maidenhead United,3,0,0,1
+Torquay United,Solihull Moors,0,2,0,0
+Wealdstone,Notts County,0,0,0,0
+Weymouth,Dagenham & Redbridge,1,2,1,1
+Wrexham,Grimsby Town,1,0,0,0
+Barnet,Stockport County,0,5,0,1
+Boreham Wood,King's Lynn Town,3,1,1,1
+Bromley,Notts County,1,0,0,0
+Dagenham & Redbridge,Halifax Town,1,3,1,1
+Dover Athletic,Southend United,0,1,0,0
+Grimsby Town,Wealdstone,2,1,1,1
+Solihull Moors,Altrincham,5,0,0,1
+Weymouth,Aldershot Town,0,1,0,0
+Woking,Yeovil Town,0,1,0,0
+Wrexham,Maidenhead United,1,1,1,0
+Eastleigh,Chesterfield,0,1,0,0
+Southend United,Barnet,2,1,1,1
+Yeovil Town,Weymouth,1,1,1,0
+Aldershot Town,Barnet,1,3,1,1
+Altrincham,Woking,2,2,1,1
+Chesterfield,Dagenham & Redbridge,2,1,1,1
+King's Lynn Town,Weymouth,3,0,0,1
+Maidenhead United,Eastleigh,2,2,1,1
+Notts County,Grimsby Town,1,2,1,1
+Stockport County,Dover Athletic,1,0,0,0
+Torquay United,Wrexham,1,0,0,0
+Yeovil Town,Solihull Moors,0,0,0,0
+Grimsby Town,King's Lynn Town,0,0,0,0
+Southend United,Bromley,2,0,0,0
+Stockport County,Chesterfield,2,2,1,1
+Wealdstone,Yeovil Town,2,1,1,1
+Notts County,Barnet,6,1,1,1
+King's Lynn Town,Altrincham,0,1,0,0
+Barnet,Wealdstone,1,3,1,1
+Dover Athletic,Torquay United,1,3,1,1
+Eastleigh,Yeovil Town,0,0,0,0
+Grimsby Town,Aldershot Town,3,1,1,1
+Weymouth,Chesterfield,1,1,1,0
+Woking,Southend United,2,3,1,1
+Weymouth,Eastleigh,1,0,0,0
+Boreham Wood,Altrincham,2,0,0,0
+Bromley,Stockport County,1,3,1,1
+Chesterfield,Solihull Moors,2,3,1,1
+Notts County,Eastleigh,2,0,0,0
+Stockport County,Woking,1,0,0,0
+Torquay United,Barnet,2,2,1,1
+Wealdstone,Wrexham,1,2,1,1
+Maidenhead United,Boreham Wood,2,0,0,0
+Aldershot Town,Dover Athletic,0,0,0,0
+Barnet,King's Lynn Town,0,0,0,0
+Chesterfield,Wrexham,0,2,0,0
+Dagenham & Redbridge,Woking,1,1,1,0
+Eastleigh,Southend United,1,1,1,0
+Maidenhead United,Yeovil Town,1,1,1,0
+Notts County,Halifax Town,1,1,1,0
+Solihull Moors,Wealdstone,2,1,1,1
+Torquay United,Boreham Wood,0,0,0,0
+Weymouth,Bromley,2,2,1,1
+Altrincham,Dagenham & Redbridge,3,0,0,1
+Boreham Wood,Eastleigh,1,0,0,0
+Dover Athletic,Grimsby Town,1,3,1,1
+Halifax Town,Barnet,1,0,0,0
+King's Lynn Town,Maidenhead United,1,4,1,1
+Southend United,Solihull Moors,1,1,1,0
+Stockport County,Weymouth,1,0,0,0
+Woking,Notts County,0,2,0,0
+Wrexham,Aldershot Town,4,1,1,1
+Wealdstone,Torquay United,1,1,1,0
+Chesterfield,Yeovil Town,1,0,0,0
+Chesterfield,Notts County,3,1,1,1
+Dagenham & Redbridge,Maidenhead United,3,0,0,1
+Wrexham,King's Lynn Town,2,0,0,0
+Barnet,Dover Athletic,6,0,0,1
+Chesterfield,Southend United,2,2,1,1
+Eastleigh,Wealdstone,4,1,1,1
+Grimsby Town,Woking,1,0,0,0
+Maidenhead United,Altrincham,0,0,0,0
+Notts County,Yeovil Town,1,1,1,0
+Solihull Moors,King's Lynn Town,2,2,1,1
+Torquay United,Bromley,0,0,0,0
+Weymouth,Halifax Town,0,2,0,0
+Aldershot Town,Stockport County,0,2,0,0
+Maidenhead United,Wealdstone,0,2,0,0
+King's Lynn Town,Woking,0,0,0,0
+Wrexham,Boreham Wood,4,2,1,1
+Solihull Moors,Notts County,3,3,1,1
+Altrincham,Weymouth,5,0,0,1
+Southend United,Grimsby Town,1,0,0,0
+Yeovil Town,Dagenham & Redbridge,0,3,0,1
+Halifax Town,Dover Athletic,2,1,1,1
+Altrincham,Eastleigh,4,0,0,1
+King's Lynn Town,Torquay United,2,3,1,1
+Wealdstone,Weymouth,3,2,1,1
+Woking,Maidenhead United,1,0,0,0
+Yeovil Town,Grimsby Town,0,2,0,0
+Boreham Wood,Chesterfield,1,1,1,0
+Barnet,Boreham Wood,1,0,0,0
+Halifax Town,Bromley,1,0,0,0
+Southend United,Dagenham & Redbridge,0,3,0,1
+Stockport County,Notts County,3,0,0,1
+Aldershot Town,King's Lynn Town,0,3,0,1
+Barnet,Woking,0,2,0,0
+Boreham Wood,Grimsby Town,0,0,0,0
+Bromley,Wrexham,0,0,0,0
+Chesterfield,Maidenhead United,1,0,0,0
+Dagenham & Redbridge,Notts County,1,2,1,1
+Dover Athletic,Yeovil Town,0,2,0,0
+Halifax Town,Torquay United,2,0,0,0
+Solihull Moors,Eastleigh,5,3,1,1
+Southend United,Altrincham,2,0,0,0
+Stockport County,Wealdstone,4,2,1,1
+Altrincham,Chesterfield,1,0,0,0
+Eastleigh,Dagenham & Redbridge,0,1,0,0
+Grimsby Town,Solihull Moors,1,2,1,1
+King's Lynn Town,Stockport County,0,3,0,1
+Maidenhead United,Southend United,2,1,1,1
+Notts County,Boreham Wood,1,0,0,0
+Torquay United,Aldershot Town,4,0,0,1
+Woking,Weymouth,2,0,0,0
+Wrexham,Halifax Town,3,1,1,1
+Yeovil Town,Bromley,2,1,1,1
+Altrincham,Aldershot Town,1,0,0,0
+Eastleigh,Stockport County,0,2,0,0
+Grimsby Town,Dagenham & Redbridge,2,1,1,1
+King's Lynn Town,Halifax Town,2,0,0,0
+Maidenhead United,Barnet,1,2,1,1
+Notts County,Chesterfield,1,1,1,0
+Torquay United,Weymouth,3,0,0,1
+Wealdstone,Bromley,1,1,1,0
+Woking,Solihull Moors,2,3,1,1
+Wrexham,Dover Athletic,6,5,1,1
+Yeovil Town,Southend United,2,0,0,0
+Aldershot Town,Eastleigh,0,2,0,0
+Barnet,Yeovil Town,2,2,1,1
+Chesterfield,Grimsby Town,1,4,1,1
+Dover Athletic,King's Lynn Town,1,1,1,0
+Halifax Town,Wealdstone,2,0,0,0
+Solihull Moors,Maidenhead United,3,1,1,1
+Southend United,Notts County,0,3,0,1
+Boreham Wood,Woking,0,1,0,0
+Wealdstone,Maidenhead United,0,0,0,0
+King's Lynn Town,Bromley,1,0,0,0
+Dagenham & Redbridge,Boreham Wood,0,0,0,0
+Halifax Town,Solihull Moors,0,0,0,0
+Wrexham,Barnet,6,0,0,1
+Aldershot Town,Boreham Wood,2,1,1,1
+Barnet,Solihull Moors,0,2,0,0
+Bromley,Dagenham & Redbridge,0,2,0,0
+Dover Athletic,Maidenhead United,0,1,0,0
+Halifax Town,Woking,2,1,1,1
+King's Lynn Town,Yeovil Town,2,2,1,1
+Torquay United,Notts County,5,1,1,1
+Wealdstone,Chesterfield,1,2,1,1
+Weymouth,Grimsby Town,0,0,0,0
+Wrexham,Eastleigh,3,2,1,1
+Stockport County,Southend United,5,0,0,1
+Wrexham,Solihull Moors,1,1,1,0
+Altrincham,Halifax Town,1,1,1,0
+Boreham Wood,Dover Athletic,1,2,1,1
+Dagenham & Redbridge,Barnet,7,3,1,1
+Eastleigh,Bromley,0,2,0,0
+Grimsby Town,Stockport County,2,1,1,1
+Maidenhead United,Weymouth,2,0,0,0
+Notts County,King's Lynn Town,4,1,1,1
+Southend United,Wealdstone,0,1,0,0
+Woking,Torquay United,0,1,0,0
+Yeovil Town,Aldershot Town,0,2,0,0
+Weymouth,Yeovil Town,0,0,0,0
+Aldershot Town,Dagenham & Redbridge,0,2,0,0
+Barnet,Southend United,1,3,1,1
+Bromley,Maidenhead United,0,0,0,0
+Dover Athletic,Woking,1,4,1,1
+King's Lynn Town,Grimsby Town,0,1,0,0
+Stockport County,Solihull Moors,1,0,0,0
+Torquay United,Eastleigh,0,0,0,0
+Wealdstone,Boreham Wood,2,0,0,0
+Wrexham,Altrincham,4,0,0,1
+Halifax Town,Chesterfield,2,0,0,0
+Altrincham,Wealdstone,4,2,1,1
+Boreham Wood,Bromley,2,0,0,0
+Chesterfield,Dover Athletic,3,2,1,1
+Dagenham & Redbridge,King's Lynn Town,1,1,1,0
+Eastleigh,Barnet,2,3,1,1
+Grimsby Town,Torquay United,2,1,1,1
+Notts County,Weymouth,3,1,1,1
+Solihull Moors,Aldershot Town,2,1,1,1
+Southend United,Halifax Town,1,0,0,0
+Yeovil Town,Stockport County,2,1,1,1
+Woking,Wrexham,2,1,1,1
+Dover Athletic,Notts County,0,3,0,1
+Southend United,Boreham Wood,1,0,0,0
+Bromley,Aldershot Town,1,1,1,0
+Weymouth,Wrexham,1,6,1,1
+Aldershot Town,Notts County,3,1,1,1
+Barnet,Grimsby Town,2,2,1,1
+Bromley,Chesterfield,4,2,1,1
+Dover Athletic,Altrincham,0,1,0,0
+Halifax Town,Yeovil Town,1,0,0,0
+King's Lynn Town,Eastleigh,3,3,1,1
+Torquay United,Maidenhead United,1,1,1,0
+Wealdstone,Dagenham & Redbridge,1,2,1,1
+Weymouth,Solihull Moors,2,4,1,1
+Wrexham,Southend United,1,0,0,0
+Stockport County,Boreham Wood,1,2,1,1
+Altrincham,Barnet,1,1,1,0
+Boreham Wood,Wrexham,1,1,1,0
+Chesterfield,Stockport County,0,1,0,0
+Dagenham & Redbridge,Torquay United,0,0,0,0
+Eastleigh,Halifax Town,1,2,1,1
+Maidenhead United,Aldershot Town,2,2,1,1
+Notts County,Dover Athletic,1,0,0,0
+Solihull Moors,Bromley,3,0,0,1
+Southend United,Weymouth,1,1,1,0
+Woking,King's Lynn Town,0,3,0,1
+Yeovil Town,Wealdstone,0,0,0,0
+Torquay United,Chesterfield,2,0,0,0
+Bromley,Dover Athletic,2,2,1,1
+Halifax Town,Aldershot Town,1,1,1,0
+Grimsby Town,Maidenhead United,1,3,1,1
+Notts County,Altrincham,3,0,0,1
+Solihull Moors,Dagenham & Redbridge,3,1,1,1
+Wealdstone,King's Lynn Town,2,1,1,1
+Weymouth,Barnet,1,2,1,1
+Woking,Eastleigh,1,2,1,1
+Yeovil Town,Boreham Wood,2,2,1,1
+Wrexham,Stockport County,3,0,0,1
+Grimsby Town,Boreham Wood,1,0,0,0
+Bromley,Altrincham,1,1,1,0
+Stockport County,Torquay United,1,0,0,0
+Aldershot Town,Wealdstone,1,3,1,1
+Altrincham,Yeovil Town,0,1,0,0
+Barnet,Bromley,2,4,1,1
+Boreham Wood,Solihull Moors,0,3,0,1
+Chesterfield,Woking,0,0,0,0
+Dagenham & Redbridge,Wrexham,3,0,0,1
+Dover Athletic,Weymouth,1,2,1,1
+Eastleigh,Grimsby Town,4,4,1,1
+Maidenhead United,Notts County,0,1,0,0
+Southend United,Torquay United,1,1,1,0
+Stockport County,Halifax Town,2,0,0,0
+Notts County,Grimsby Town,1,2,1,1
+Halifax Town,Chesterfield,1,2,1,1
+Wrexham,Grimsby Town,4,5,1,1
+Solihull Moors,Chesterfield,3,1,1,1
+Grimsby Town,Solihull Moors,2,1,1,1

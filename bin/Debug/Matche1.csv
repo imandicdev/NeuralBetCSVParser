@@ -1,0 +1,466 @@
+HomeTeam,AwayTeam,HomeGoalCount,AwayGoalCount,BTTS,OverUnder
+Tochigi,Blaublitz Akita,1,0,0,0
+ThespaKusatsu Gunma,Montedio Yamagata,1,0,0,0
+JEF United,Grulla Morioka,0,1,0,0
+Yokohama,Omiya Ardija,3,2,1,1
+Tokushima Vortis,Zweigen Kanazawa,0,0,0,0
+V-Varen Nagasaki,Tokyo Verdy,1,1,1,0
+Renofa Yamaguchi,Roasso Kumamoto,1,1,1,0
+Vegalta Sendai,Albirex Niigata,0,0,0,0
+Machida Zelvia,Ryūkyū,0,0,0,0
+Fagiano Okayama,Ventforet Kofu,4,1,1,1
+Omiya Ardija,Albirex Niigata,2,2,1,1
+Ryūkyū,JEF United,1,2,1,1
+Ventforet Kofu,Oita Trinita,1,1,1,0
+Roasso Kumamoto,Montedio Yamagata,0,3,0,1
+Mito Hollyhock,Vegalta Sendai,2,3,1,1
+ThespaKusatsu Gunma,Zweigen Kanazawa,0,0,0,0
+Tokyo Verdy,Tochigi,3,0,0,1
+Machida Zelvia,Grulla Morioka,1,0,0,0
+Yokohama,V-Varen Nagasaki,1,0,0,0
+Fagiano Okayama,Tokushima Vortis,1,1,1,0
+Renofa Yamaguchi,Blaublitz Akita,2,0,0,0
+Omiya Ardija,Roasso Kumamoto,1,2,1,1
+Albirex Niigata,Renofa Yamaguchi,1,1,1,0
+Tochigi,Fagiano Okayama,0,1,0,0
+V-Varen Nagasaki,Ventforet Kofu,1,2,1,1
+Ryūkyū,Grulla Morioka,1,2,1,1
+Vegalta Sendai,ThespaKusatsu Gunma,0,0,0,0
+Mito Hollyhock,Blaublitz Akita,0,1,0,0
+JEF United,Montedio Yamagata,0,0,0,0
+Zweigen Kanazawa,Machida Zelvia,1,2,1,1
+Tokushima Vortis,Tokyo Verdy,1,1,1,0
+Oita Trinita,Yokohama,1,2,1,1
+Oita Trinita,Mito Hollyhock,1,1,1,0
+Vegalta Sendai,Grulla Morioka,3,0,0,1
+Ventforet Kofu,Montedio Yamagata,1,1,1,0
+Renofa Yamaguchi,Ryūkyū,2,3,1,1
+Tokushima Vortis,Roasso Kumamoto,2,2,1,1
+V-Varen Nagasaki,Oita Trinita,4,1,1,1
+Blaublitz Akita,Albirex Niigata,1,0,0,0
+Tochigi,Omiya Ardija,1,1,1,0
+ThespaKusatsu Gunma,Tokyo Verdy,0,1,0,0
+Machida Zelvia,Fagiano Okayama,3,1,1,1
+Yokohama,Mito Hollyhock,3,2,1,1
+Zweigen Kanazawa,JEF United,0,1,0,0
+Blaublitz Akita,Zweigen Kanazawa,2,3,1,1
+Omiya Ardija,Tokushima Vortis,0,2,0,0
+Albirex Niigata,Ventforet Kofu,2,0,0,0
+Oita Trinita,Renofa Yamaguchi,1,1,1,0
+Ryūkyū,Mito Hollyhock,1,2,1,1
+Grulla Morioka,Tochigi,1,1,1,0
+Montedio Yamagata,Vegalta Sendai,2,3,1,1
+JEF United,ThespaKusatsu Gunma,0,1,0,0
+Tokyo Verdy,Machida Zelvia,2,1,1,1
+Fagiano Okayama,Yokohama,1,1,1,0
+Roasso Kumamoto,V-Varen Nagasaki,2,0,0,0
+Tokushima Vortis,Blaublitz Akita,0,0,0,0
+Oita Trinita,Ryūkyū,4,1,1,1
+Grulla Morioka,Renofa Yamaguchi,0,0,0,0
+Omiya Ardija,Fagiano Okayama,1,1,1,0
+Vegalta Sendai,Machida Zelvia,0,3,0,1
+Montedio Yamagata,Tokyo Verdy,3,3,1,1
+Mito Hollyhock,Roasso Kumamoto,2,0,0,0
+Tochigi,JEF United,2,1,1,1
+Ventforet Kofu,Yokohama,1,2,1,1
+Albirex Niigata,ThespaKusatsu Gunma,3,2,1,1
+V-Varen Nagasaki,Zweigen Kanazawa,0,1,0,0
+Blaublitz Akita,Ventforet Kofu,0,0,0,0
+Vegalta Sendai,Oita Trinita,1,3,1,1
+Mito Hollyhock,Tochigi,0,1,0,0
+ThespaKusatsu Gunma,V-Varen Nagasaki,2,3,1,1
+JEF United,Albirex Niigata,1,0,0,0
+Machida Zelvia,Omiya Ardija,3,0,0,1
+Yokohama,Montedio Yamagata,2,1,1,1
+Zweigen Kanazawa,Roasso Kumamoto,2,2,1,1
+Fagiano Okayama,Grulla Morioka,0,1,0,0
+Renofa Yamaguchi,Tokushima Vortis,0,0,0,0
+Ryūkyū,Tokyo Verdy,2,5,1,1
+Blaublitz Akita,Grulla Morioka,3,1,1,1
+Roasso Kumamoto,Albirex Niigata,1,2,1,1
+Tochigi,Zweigen Kanazawa,0,2,0,0
+ThespaKusatsu Gunma,Mito Hollyhock,2,1,1,1
+Machida Zelvia,JEF United,1,1,1,0
+Yokohama,Ryūkyū,3,1,1,1
+Ventforet Kofu,Vegalta Sendai,2,3,1,1
+Renofa Yamaguchi,Omiya Ardija,1,0,0,0
+Tokushima Vortis,V-Varen Nagasaki,0,0,0,0
+Tokyo Verdy,Oita Trinita,1,0,0,0
+Grulla Morioka,ThespaKusatsu Gunma,0,1,0,0
+Omiya Ardija,Ventforet Kofu,1,3,1,1
+V-Varen Nagasaki,Machida Zelvia,1,0,0,0
+Tokyo Verdy,Roasso Kumamoto,2,3,1,1
+Ryūkyū,Fagiano Okayama,3,3,1,1
+Vegalta Sendai,Renofa Yamaguchi,2,1,1,1
+Montedio Yamagata,Blaublitz Akita,5,1,1,1
+JEF United,Yokohama,1,1,1,0
+Albirex Niigata,Tochigi,2,0,0,0
+Zweigen Kanazawa,Mito Hollyhock,1,1,1,0
+Oita Trinita,Tokushima Vortis,1,0,0,0
+Grulla Morioka,Oita Trinita,1,2,1,1
+Omiya Ardija,JEF United,2,1,1,1
+Zweigen Kanazawa,Ventforet Kofu,2,3,1,1
+Ryūkyū,ThespaKusatsu Gunma,0,1,0,0
+Blaublitz Akita,V-Varen Nagasaki,0,1,0,0
+Mito Hollyhock,Tokushima Vortis,1,1,1,0
+Tochigi,Roasso Kumamoto,1,1,1,0
+Machida Zelvia,Montedio Yamagata,1,1,1,0
+Yokohama,Vegalta Sendai,2,1,1,1
+Fagiano Okayama,Albirex Niigata,1,1,1,0
+Renofa Yamaguchi,Tokyo Verdy,3,1,1,1
+Tokushima Vortis,Grulla Morioka,5,0,0,1
+Oita Trinita,Zweigen Kanazawa,1,3,1,1
+Roasso Kumamoto,Fagiano Okayama,1,1,1,0
+Vegalta Sendai,Ryūkyū,2,0,0,0
+Montedio Yamagata,Omiya Ardija,2,0,0,0
+Tokyo Verdy,JEF United,1,1,1,0
+Ventforet Kofu,Machida Zelvia,1,0,0,0
+Albirex Niigata,V-Varen Nagasaki,2,1,1,1
+Mito Hollyhock,Renofa Yamaguchi,3,2,1,1
+Tochigi,Yokohama,0,0,0,0
+ThespaKusatsu Gunma,Blaublitz Akita,0,1,0,0
+Blaublitz Akita,Fagiano Okayama,0,1,0,0
+Omiya Ardija,ThespaKusatsu Gunma,3,2,1,1
+JEF United,Renofa Yamaguchi,2,0,0,0
+Yokohama,Machida Zelvia,1,1,1,0
+Albirex Niigata,Grulla Morioka,2,0,0,0
+Tokushima Vortis,Montedio Yamagata,0,1,0,0
+V-Varen Nagasaki,Mito Hollyhock,1,0,0,0
+Roasso Kumamoto,Vegalta Sendai,0,2,0,0
+Oita Trinita,Tochigi,0,0,0,0
+Ryūkyū,Zweigen Kanazawa,1,1,1,0
+Ventforet Kofu,Tokyo Verdy,2,0,0,0
+JEF United,Oita Trinita,0,3,0,1
+Renofa Yamaguchi,Tochigi,2,1,1,1
+Mito Hollyhock,Ventforet Kofu,2,1,1,1
+Ryūkyū,Albirex Niigata,1,1,1,0
+Grulla Morioka,Roasso Kumamoto,1,2,1,1
+Fagiano Okayama,Tokyo Verdy,2,1,1,1
+Montedio Yamagata,V-Varen Nagasaki,2,0,0,0
+ThespaKusatsu Gunma,Yokohama,3,3,1,1
+Machida Zelvia,Tokushima Vortis,0,2,0,0
+Zweigen Kanazawa,Omiya Ardija,1,2,1,1
+Vegalta Sendai,Blaublitz Akita,3,1,1,1
+Grulla Morioka,V-Varen Nagasaki,0,4,0,1
+Blaublitz Akita,Ryūkyū,2,1,1,1
+Tokyo Verdy,Vegalta Sendai,3,1,1,1
+Yokohama,Roasso Kumamoto,0,1,0,0
+Ventforet Kofu,ThespaKusatsu Gunma,1,0,0,0
+Albirex Niigata,Zweigen Kanazawa,1,0,0,0
+Fagiano Okayama,Mito Hollyhock,2,1,1,1
+Renofa Yamaguchi,Machida Zelvia,3,1,1,1
+Tokushima Vortis,JEF United,1,0,0,0
+Oita Trinita,Omiya Ardija,1,1,1,0
+Tochigi,Montedio Yamagata,1,2,1,1
+Blaublitz Akita,Yokohama,1,0,0,0
+Roasso Kumamoto,Ryūkyū,0,2,0,0
+Montedio Yamagata,Oita Trinita,1,1,1,0
+Mito Hollyhock,Machida Zelvia,0,0,0,0
+ThespaKusatsu Gunma,Tokushima Vortis,0,0,0,0
+Albirex Niigata,Tokyo Verdy,4,3,1,1
+Zweigen Kanazawa,Renofa Yamaguchi,1,0,0,0
+V-Varen Nagasaki,Vegalta Sendai,0,2,0,0
+JEF United,Fagiano Okayama,1,0,0,0
+Tochigi,Ventforet Kofu,0,0,0,0
+Ventforet Kofu,Renofa Yamaguchi,1,1,1,0
+V-Varen Nagasaki,Omiya Ardija,0,0,0,0
+Oita Trinita,Roasso Kumamoto,1,2,1,1
+Tokyo Verdy,Mito Hollyhock,0,2,0,0
+Ryūkyū,Tochigi,1,0,0,0
+Vegalta Sendai,Zweigen Kanazawa,4,1,1,1
+Machida Zelvia,Albirex Niigata,2,1,1,1
+Yokohama,Tokushima Vortis,2,1,1,1
+Fagiano Okayama,ThespaKusatsu Gunma,0,1,0,0
+JEF United,Blaublitz Akita,0,1,0,0
+Omiya Ardija,Grulla Morioka,0,1,0,0
+Roasso Kumamoto,JEF United,1,1,1,0
+Blaublitz Akita,Tokyo Verdy,3,3,1,1
+Omiya Ardija,Vegalta Sendai,2,4,1,1
+Albirex Niigata,Yokohama,3,0,0,1
+Zweigen Kanazawa,Montedio Yamagata,1,1,1,0
+Tokushima Vortis,Tochigi,0,1,0,0
+Mito Hollyhock,Grulla Morioka,3,0,0,1
+Fagiano Okayama,Oita Trinita,1,0,0,0
+Ryūkyū,Ventforet Kofu,1,1,1,0
+Machida Zelvia,ThespaKusatsu Gunma,2,0,0,0
+Renofa Yamaguchi,V-Varen Nagasaki,1,2,1,1
+Grulla Morioka,Yokohama,1,3,1,1
+Vegalta Sendai,Fagiano Okayama,0,0,0,0
+Montedio Yamagata,Renofa Yamaguchi,1,0,0,0
+Mito Hollyhock,Albirex Niigata,0,3,0,1
+Tochigi,Machida Zelvia,1,0,0,0
+ThespaKusatsu Gunma,Roasso Kumamoto,2,3,1,1
+Omiya Ardija,Ryūkyū,1,0,0,0
+Tokyo Verdy,Zweigen Kanazawa,1,3,1,1
+V-Varen Nagasaki,JEF United,0,2,0,0
+Oita Trinita,Blaublitz Akita,1,1,1,0
+Ventforet Kofu,Tokushima Vortis,1,1,1,0
+Roasso Kumamoto,Ventforet Kofu,1,1,1,0
+Tokyo Verdy,Omiya Ardija,1,1,1,0
+Vegalta Sendai,Tochigi,2,1,1,1
+Machida Zelvia,Blaublitz Akita,2,0,0,0
+Yokohama,Renofa Yamaguchi,1,0,0,0
+Albirex Niigata,Montedio Yamagata,3,0,0,1
+V-Varen Nagasaki,Fagiano Okayama,0,0,0,0
+JEF United,Mito Hollyhock,2,1,1,1
+ThespaKusatsu Gunma,Oita Trinita,0,1,0,0
+Ryūkyū,Tokushima Vortis,3,3,1,1
+Zweigen Kanazawa,Grulla Morioka,2,1,1,1
+Tokushima Vortis,Albirex Niigata,1,1,1,0
+Fagiano Okayama,Zweigen Kanazawa,5,1,1,1
+Blaublitz Akita,Roasso Kumamoto,2,2,1,1
+Montedio Yamagata,Ryūkyū,4,0,0,1
+Omiya Ardija,Mito Hollyhock,0,2,0,0
+JEF United,Vegalta Sendai,2,0,0,0
+Yokohama,Tokyo Verdy,1,1,1,0
+Renofa Yamaguchi,ThespaKusatsu Gunma,2,1,1,1
+Oita Trinita,Machida Zelvia,3,1,1,1
+Grulla Morioka,Ventforet Kofu,1,0,0,0
+Tochigi,V-Varen Nagasaki,2,3,1,1
+Ventforet Kofu,JEF United,1,1,1,0
+Zweigen Kanazawa,Yokohama,1,1,1,0
+Tokushima Vortis,Vegalta Sendai,2,2,1,1
+Ryūkyū,V-Varen Nagasaki,1,2,1,1
+Oita Trinita,Albirex Niigata,1,2,1,1
+Renofa Yamaguchi,Fagiano Okayama,0,1,0,0
+Blaublitz Akita,Omiya Ardija,0,1,0,0
+Mito Hollyhock,Montedio Yamagata,1,0,0,0
+Machida Zelvia,Roasso Kumamoto,1,1,1,0
+ThespaKusatsu Gunma,Tochigi,0,0,0,0
+Tokyo Verdy,Grulla Morioka,2,2,1,1
+Grulla Morioka,Montedio Yamagata,3,3,1,1
+JEF United,Omiya Ardija,1,1,1,0
+Grulla Morioka,Tokushima Vortis,1,0,0,0
+Vegalta Sendai,Yokohama,2,3,1,1
+Tochigi,Oita Trinita,1,1,1,0
+Tokyo Verdy,Renofa Yamaguchi,3,0,0,1
+Roasso Kumamoto,Mito Hollyhock,0,0,0,0
+Montedio Yamagata,Ventforet Kofu,0,1,0,0
+Fagiano Okayama,Ryūkyū,1,0,0,0
+V-Varen Nagasaki,ThespaKusatsu Gunma,2,0,0,0
+Albirex Niigata,Blaublitz Akita,3,0,0,1
+Machida Zelvia,Zweigen Kanazawa,3,2,1,1
+Vegalta Sendai,Montedio Yamagata,1,1,1,0
+Mito Hollyhock,Fagiano Okayama,1,1,1,0
+V-Varen Nagasaki,Blaublitz Akita,0,0,0,0
+Roasso Kumamoto,Oita Trinita,1,2,1,1
+JEF United,Tokyo Verdy,3,1,1,1
+Tochigi,Grulla Morioka,1,1,1,0
+Yokohama,Albirex Niigata,2,0,0,0
+Tokushima Vortis,ThespaKusatsu Gunma,1,0,0,0
+Ryūkyū,Machida Zelvia,0,1,0,0
+Omiya Ardija,Zweigen Kanazawa,0,1,0,0
+Renofa Yamaguchi,Ventforet Kofu,2,1,1,1
+Blaublitz Akita,Renofa Yamaguchi,0,1,0,0
+Grulla Morioka,Omiya Ardija,1,0,0,0
+Mito Hollyhock,Yokohama,1,2,1,1
+Machida Zelvia,Vegalta Sendai,2,3,1,1
+Ventforet Kofu,V-Varen Nagasaki,0,1,0,0
+Montedio Yamagata,Tochigi,0,2,0,0
+Zweigen Kanazawa,Tokushima Vortis,0,1,0,0
+Fagiano Okayama,Roasso Kumamoto,0,2,0,0
+Oita Trinita,JEF United,3,2,1,1
+ThespaKusatsu Gunma,Albirex Niigata,0,2,0,0
+Tokyo Verdy,Ryūkyū,2,1,1,1
+Grulla Morioka,Ryūkyū,0,1,0,0
+Vegalta Sendai,Ventforet Kofu,3,0,0,1
+Tochigi,Tokyo Verdy,0,1,0,0
+Machida Zelvia,Mito Hollyhock,2,3,1,1
+Yokohama,Blaublitz Akita,1,1,1,0
+Albirex Niigata,JEF United,1,2,1,1
+Zweigen Kanazawa,ThespaKusatsu Gunma,2,1,1,1
+Fagiano Okayama,Omiya Ardija,4,2,1,1
+Renofa Yamaguchi,Oita Trinita,0,0,0,0
+V-Varen Nagasaki,Montedio Yamagata,1,1,1,0
+Roasso Kumamoto,Tokushima Vortis,1,1,1,0
+Mito Hollyhock,Zweigen Kanazawa,1,1,1,0
+JEF United,Tochigi,0,1,0,0
+Ventforet Kofu,Blaublitz Akita,3,1,1,1
+Tokushima Vortis,Yokohama,1,1,1,0
+V-Varen Nagasaki,Grulla Morioka,2,2,1,1
+Montedio Yamagata,Roasso Kumamoto,0,1,0,0
+ThespaKusatsu Gunma,Machida Zelvia,0,2,0,0
+Omiya Ardija,Tokyo Verdy,2,2,1,1
+Renofa Yamaguchi,Albirex Niigata,1,3,1,1
+Oita Trinita,Fagiano Okayama,2,2,1,1
+Ryūkyū,Vegalta Sendai,1,1,1,0
+Grulla Morioka,Vegalta Sendai,1,5,1,1
+Ventforet Kofu,Mito Hollyhock,1,1,1,0
+Zweigen Kanazawa,Albirex Niigata,0,3,0,1
+Oita Trinita,ThespaKusatsu Gunma,2,1,1,1
+Blaublitz Akita,Montedio Yamagata,0,2,0,0
+Machida Zelvia,V-Varen Nagasaki,1,2,1,1
+Yokohama,JEF United,4,0,0,1
+Fagiano Okayama,Tochigi,0,0,0,0
+Ryūkyū,Omiya Ardija,1,1,1,0
+Roasso Kumamoto,Renofa Yamaguchi,1,0,0,0
+Grulla Morioka,Machida Zelvia,1,3,1,1
+Albirex Niigata,Fagiano Okayama,2,3,1,1
+Tokushima Vortis,Ryūkyū,0,0,0,0
+Vegalta Sendai,V-Varen Nagasaki,1,2,1,1
+Montedio Yamagata,ThespaKusatsu Gunma,0,1,0,0
+Tochigi,Renofa Yamaguchi,2,1,1,1
+Omiya Ardija,Blaublitz Akita,0,0,0,0
+Tokyo Verdy,Yokohama,0,1,0,0
+Roasso Kumamoto,Zweigen Kanazawa,3,0,0,1
+Mito Hollyhock,Omiya Ardija,1,0,0,0
+Tochigi,Tokushima Vortis,1,1,1,0
+Yokohama,Grulla Morioka,0,3,0,1
+Ryūkyū,Roasso Kumamoto,2,0,0,0
+Montedio Yamagata,Machida Zelvia,1,0,0,0
+ThespaKusatsu Gunma,Ventforet Kofu,1,1,1,0
+Fagiano Okayama,JEF United,1,1,1,0
+Renofa Yamaguchi,Vegalta Sendai,2,2,1,1
+V-Varen Nagasaki,Albirex Niigata,2,2,1,1
+Oita Trinita,Tokyo Verdy,2,2,1,1
+Zweigen Kanazawa,Blaublitz Akita,0,3,0,1
+Grulla Morioka,Fagiano Okayama,1,3,1,1
+Tokyo Verdy,V-Varen Nagasaki,1,0,0,0
+Ventforet Kofu,Ryūkyū,5,2,1,1
+Albirex Niigata,Tokushima Vortis,2,2,1,1
+Omiya Ardija,Yokohama,3,2,1,1
+Machida Zelvia,Oita Trinita,1,1,1,0
+Zweigen Kanazawa,Vegalta Sendai,1,4,1,1
+Renofa Yamaguchi,Montedio Yamagata,0,1,0,0
+Blaublitz Akita,Mito Hollyhock,1,1,1,0
+ThespaKusatsu Gunma,JEF United,0,3,0,1
+Roasso Kumamoto,Tochigi,2,0,0,0
+Grulla Morioka,Blaublitz Akita,0,1,0,0
+Ventforet Kofu,Roasso Kumamoto,2,2,1,1
+Vegalta Sendai,Omiya Ardija,2,3,1,1
+Montedio Yamagata,Zweigen Kanazawa,4,1,1,1
+Fagiano Okayama,Renofa Yamaguchi,3,2,1,1
+V-Varen Nagasaki,Ryūkyū,2,3,1,1
+Tochigi,Albirex Niigata,0,2,0,0
+JEF United,Machida Zelvia,1,2,1,1
+Tokushima Vortis,Oita Trinita,2,2,1,1
+Yokohama,ThespaKusatsu Gunma,1,0,0,0
+JEF United,Ventforet Kofu,0,0,0,0
+JEF United,Tokushima Vortis,0,0,0,0
+Yokohama,Fagiano Okayama,1,0,0,0
+Albirex Niigata,Roasso Kumamoto,1,0,0,0
+Ryūkyū,Montedio Yamagata,2,2,1,1
+Blaublitz Akita,Tochigi,0,3,0,1
+ThespaKusatsu Gunma,Vegalta Sendai,1,0,0,0
+Omiya Ardija,Machida Zelvia,0,2,0,0
+Renofa Yamaguchi,Mito Hollyhock,1,0,0,0
+Oita Trinita,Grulla Morioka,3,0,0,1
+Tokyo Verdy,Ventforet Kofu,0,0,0,0
+Mito Hollyhock,Oita Trinita,2,0,0,0
+Tokyo Verdy,Tokushima Vortis,0,1,0,0
+Grulla Morioka,Albirex Niigata,0,2,0,0
+Mito Hollyhock,Ryūkyū,0,0,0,0
+Ventforet Kofu,Zweigen Kanazawa,2,2,1,1
+Vegalta Sendai,JEF United,0,2,0,0
+Machida Zelvia,Yokohama,0,1,0,0
+Tokushima Vortis,Renofa Yamaguchi,2,1,1,1
+Blaublitz Akita,Oita Trinita,0,1,0,0
+Roasso Kumamoto,Tokyo Verdy,1,0,0,0
+ThespaKusatsu Gunma,Fagiano Okayama,0,1,0,0
+Montedio Yamagata,Fagiano Okayama,0,2,0,0
+Ryūkyū,Blaublitz Akita,0,1,0,0
+JEF United,V-Varen Nagasaki,0,1,0,0
+Albirex Niigata,Oita Trinita,0,1,0,0
+Vegalta Sendai,Mito Hollyhock,1,2,1,1
+Montedio Yamagata,Grulla Morioka,4,1,1,1
+Zweigen Kanazawa,Tokyo Verdy,2,1,1,1
+Renofa Yamaguchi,Yokohama,3,3,1,1
+Tokushima Vortis,Ventforet Kofu,2,0,0,0
+Tochigi,ThespaKusatsu Gunma,1,1,1,0
+Fagiano Okayama,Machida Zelvia,2,0,0,0
+Roasso Kumamoto,Omiya Ardija,1,0,0,0
+Zweigen Kanazawa,V-Varen Nagasaki,3,3,1,1
+Grulla Morioka,Mito Hollyhock,1,0,0,0
+JEF United,Zweigen Kanazawa,1,0,0,0
+Tokyo Verdy,ThespaKusatsu Gunma,1,1,1,0
+Machida Zelvia,Renofa Yamaguchi,0,1,0,0
+Yokohama,Tochigi,0,0,0,0
+Ventforet Kofu,Omiya Ardija,0,3,0,1
+Albirex Niigata,Ryūkyū,3,0,0,1
+Blaublitz Akita,Tokushima Vortis,0,0,0,0
+Fagiano Okayama,Montedio Yamagata,2,1,1,1
+V-Varen Nagasaki,Roasso Kumamoto,1,3,1,1
+Oita Trinita,Vegalta Sendai,1,0,0,0
+Grulla Morioka,JEF United,1,2,1,1
+Montedio Yamagata,Yokohama,2,0,0,0
+Mito Hollyhock,V-Varen Nagasaki,0,1,0,0
+Tochigi,Vegalta Sendai,0,1,0,0
+ThespaKusatsu Gunma,Ryūkyū,0,0,0,0
+Omiya Ardija,Oita Trinita,2,2,1,1
+Tokyo Verdy,Blaublitz Akita,0,2,0,0
+Renofa Yamaguchi,Zweigen Kanazawa,1,1,1,0
+Tokushima Vortis,Fagiano Okayama,1,0,0,0
+Roasso Kumamoto,Machida Zelvia,0,0,0,0
+Ventforet Kofu,Albirex Niigata,1,2,1,1
+Fagiano Okayama,V-Varen Nagasaki,3,0,0,1
+Vegalta Sendai,Tokushima Vortis,1,1,1,0
+Blaublitz Akita,ThespaKusatsu Gunma,0,1,0,0
+Montedio Yamagata,JEF United,2,0,0,0
+Machida Zelvia,Tokyo Verdy,2,2,1,1
+Yokohama,Ventforet Kofu,1,0,0,0
+Albirex Niigata,Mito Hollyhock,2,0,0,0
+Zweigen Kanazawa,Oita Trinita,3,3,1,1
+Ryūkyū,Renofa Yamaguchi,0,1,0,0
+Omiya Ardija,Tochigi,3,1,1,1
+Roasso Kumamoto,Grulla Morioka,1,0,0,0
+Mito Hollyhock,Tokyo Verdy,1,2,1,1
+V-Varen Nagasaki,Tochigi,1,1,1,0
+ThespaKusatsu Gunma,Renofa Yamaguchi,1,6,1,1
+Tokyo Verdy,Montedio Yamagata,1,0,0,0
+V-Varen Nagasaki,Yokohama,0,2,0,0
+Oita Trinita,Ventforet Kofu,2,1,1,1
+Fagiano Okayama,Vegalta Sendai,3,0,0,1
+Grulla Morioka,Zweigen Kanazawa,1,3,1,1
+Blaublitz Akita,Machida Zelvia,2,1,1,1
+JEF United,Roasso Kumamoto,0,1,0,0
+Albirex Niigata,Omiya Ardija,1,0,0,0
+Tokushima Vortis,Mito Hollyhock,1,1,1,0
+Tochigi,Ryūkyū,0,0,0,0
+Montedio Yamagata,Albirex Niigata,1,1,1,0
+ThespaKusatsu Gunma,Omiya Ardija,1,0,0,0
+Ventforet Kofu,Tochigi,0,1,0,0
+Tokushima Vortis,Machida Zelvia,3,2,1,1
+Ryūkyū,Yokohama,0,1,0,0
+Oita Trinita,V-Varen Nagasaki,3,1,1,1
+Roasso Kumamoto,Blaublitz Akita,1,2,1,1
+Vegalta Sendai,Tokyo Verdy,0,2,0,0
+Mito Hollyhock,JEF United,0,1,0,0
+Zweigen Kanazawa,Fagiano Okayama,3,1,1,1
+Renofa Yamaguchi,Grulla Morioka,2,2,1,1
+Omiya Ardija,Montedio Yamagata,1,1,1,0
+Blaublitz Akita,JEF United,3,0,0,1
+Albirex Niigata,Vegalta Sendai,3,0,0,1
+V-Varen Nagasaki,Tokushima Vortis,1,2,1,1
+Roasso Kumamoto,ThespaKusatsu Gunma,5,1,1,1
+Grulla Morioka,Tokyo Verdy,0,2,0,0
+Ventforet Kofu,Fagiano Okayama,1,2,1,1
+Montedio Yamagata,Mito Hollyhock,0,0,0,0
+Omiya Ardija,Renofa Yamaguchi,2,1,1,1
+Machida Zelvia,Tochigi,0,1,0,0
+Zweigen Kanazawa,Ryūkyū,1,2,1,1
+Yokohama,Oita Trinita,2,3,1,1
+Tokyo Verdy,Albirex Niigata,1,0,0,0
+V-Varen Nagasaki,Renofa Yamaguchi,0,1,0,0
+Tochigi,Mito Hollyhock,2,3,1,1
+ThespaKusatsu Gunma,Grulla Morioka,5,1,1,1
+JEF United,Ryūkyū,2,1,1,1
+Fagiano Okayama,Blaublitz Akita,1,2,1,1
+Oita Trinita,Montedio Yamagata,0,3,0,1
+Vegalta Sendai,Roasso Kumamoto,2,1,1,1
+Yokohama,Zweigen Kanazawa,2,3,1,1
+Tokushima Vortis,Omiya Ardija,3,1,1,1
+Machida Zelvia,Ventforet Kofu,1,2,1,1
+Blaublitz Akita,Vegalta Sendai,0,0,0,0
+Montedio Yamagata,Tokushima Vortis,3,0,0,1
+Mito Hollyhock,ThespaKusatsu Gunma,2,1,1,1
+Omiya Ardija,V-Varen Nagasaki,3,3,1,1
+Tokyo Verdy,Fagiano Okayama,2,0,0,0
+Ventforet Kofu,Grulla Morioka,2,0,0,0
+Albirex Niigata,Machida Zelvia,2,1,1,1
+Zweigen Kanazawa,Tochigi,0,0,0,0
+Renofa Yamaguchi,JEF United,1,3,1,1
+Roasso Kumamoto,Yokohama,3,4,1,1
+Ryūkyū,Oita Trinita,1,0,0,0
+Roasso Kumamoto,Oita Trinita,2,2,1,1
+Fagiano Okayama,Montedio Yamagata,0,3,0,1
+Roasso Kumamoto,Montedio Yamagata,2,2,1,1

@@ -1,0 +1,81 @@
+# .NET Core specific
+bin/
+obj/
+out/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.vs/
+.vscode/
+.idea/
+
+# Build results
+*.dll
+*.exe
+*.app
+*.appx
+*.db
+*.dmg
+*.ipa
+*.pkg
+*.so
+*.a
+*.lib
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+*.pdb
+*.msi
+*.pyc
+*.cache
+
+# Logs
+*.log
+
+# Web files
+node_modules/
+wwwroot/
+
+# Azure Web Apps
+.scm/
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# DotCover
+*.dotCover
+
+# StyleCop
+StyleCopReport.xml
+
+# NDepend
+.ndepend
+
+# JetBrains Rider
+.idea/
+
+# Local History for Visual Studio
+.vs/
+.history/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Unix files
+*.swp
+*.swo
+*~

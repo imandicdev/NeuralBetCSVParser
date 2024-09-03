@@ -1,0 +1,553 @@
+HomeTeam,AwayTeam,HomeGoalCount,AwayGoalCount,BTTS,OverUnder
+Accrington Stanley,Newport County,3,0,0,1
+Colchester United,Swindon Town,0,0,0,0
+Crawley Town,Bradford City,1,0,0,0
+Crewe Alexandra,Mansfield Town,2,2,1,1
+Doncaster Rovers,Harrogate Town,0,1,0,0
+Forest Green Rovers,Salford City,0,2,0,0
+Grimsby Town,AFC Wimbledon,0,0,0,0
+Morecambe,Walsall,2,1,1,1
+Stockport County,Gillingham,0,1,0,0
+Sutton United,Notts County,5,1,1,1
+Tranmere Rovers,Barrow,1,2,1,1
+Wrexham,Milton Keynes Dons,3,5,1,1
+AFC Wimbledon,Wrexham,0,0,0,0
+Barrow,Sutton United,0,0,0,0
+Bradford City,Colchester United,0,0,0,0
+Gillingham,Accrington Stanley,0,0,0,0
+Harrogate Town,Forest Green Rovers,0,0,0,0
+Mansfield Town,Morecambe,0,0,0,0
+Milton Keynes Dons,Tranmere Rovers,0,0,0,0
+Newport County,Doncaster Rovers,0,0,0,0
+Notts County,Grimsby Town,0,0,0,0
+Salford City,Crawley Town,0,0,0,0
+Swindon Town,Crewe Alexandra,0,0,0,0
+Walsall,Stockport County,0,0,0,0
+Accrington Stanley,Barrow,0,0,0,0
+Colchester United,AFC Wimbledon,0,0,0,0
+Crawley Town,Milton Keynes Dons,0,0,0,0
+Crewe Alexandra,Newport County,0,0,0,0
+Doncaster Rovers,Mansfield Town,0,0,0,0
+Forest Green Rovers,Swindon Town,0,0,0,0
+Grimsby Town,Salford City,0,0,0,0
+Morecambe,Notts County,0,0,0,0
+Stockport County,Bradford City,0,0,0,0
+Sutton United,Gillingham,0,0,0,0
+Tranmere Rovers,Harrogate Town,0,0,0,0
+Wrexham,Walsall,0,0,0,0
+Accrington Stanley,Harrogate Town,0,0,0,0
+Colchester United,Milton Keynes Dons,0,0,0,0
+Crawley Town,Gillingham,0,0,0,0
+Crewe Alexandra,Walsall,0,0,0,0
+Doncaster Rovers,Notts County,0,0,0,0
+Forest Green Rovers,Newport County,0,0,0,0
+Grimsby Town,Mansfield Town,0,0,0,0
+Morecambe,Bradford City,0,0,0,0
+Stockport County,Barrow,0,0,0,0
+Sutton United,AFC Wimbledon,0,0,0,0
+Tranmere Rovers,Salford City,0,0,0,0
+Wrexham,Swindon Town,0,0,0,0
+AFC Wimbledon,Forest Green Rovers,0,0,0,0
+Barrow,Wrexham,0,0,0,0
+Bradford City,Crewe Alexandra,0,0,0,0
+Gillingham,Colchester United,0,0,0,0
+Harrogate Town,Morecambe,0,0,0,0
+Mansfield Town,Stockport County,0,0,0,0
+Milton Keynes Dons,Doncaster Rovers,0,0,0,0
+Newport County,Sutton United,0,0,0,0
+Notts County,Tranmere Rovers,0,0,0,0
+Salford City,Accrington Stanley,0,0,0,0
+Swindon Town,Crawley Town,0,0,0,0
+Walsall,Grimsby Town,0,0,0,0
+Tranmere Rovers,Wrexham,0,0,0,0
+Crewe Alexandra,Milton Keynes Dons,0,0,0,0
+Doncaster Rovers,Swindon Town,0,0,0,0
+Grimsby Town,Gillingham,0,0,0,0
+Harrogate Town,Barrow,0,0,0,0
+Mansfield Town,Bradford City,0,0,0,0
+Morecambe,Salford City,0,0,0,0
+Newport County,AFC Wimbledon,0,0,0,0
+Notts County,Accrington Stanley,0,0,0,0
+Stockport County,Crawley Town,0,0,0,0
+Sutton United,Forest Green Rovers,0,0,0,0
+Walsall,Colchester United,0,0,0,0
+Bradford City,Grimsby Town,0,0,0,0
+AFC Wimbledon,Stockport County,0,0,0,0
+Accrington Stanley,Mansfield Town,0,0,0,0
+Barrow,Morecambe,0,0,0,0
+Colchester United,Tranmere Rovers,0,0,0,0
+Crawley Town,Newport County,0,0,0,0
+Forest Green Rovers,Crewe Alexandra,0,0,0,0
+Gillingham,Harrogate Town,0,0,0,0
+Milton Keynes Dons,Notts County,0,0,0,0
+Salford City,Walsall,0,0,0,0
+Swindon Town,Sutton United,0,0,0,0
+Wrexham,Doncaster Rovers,0,0,0,0
+Salford City,Notts County,0,0,0,0
+AFC Wimbledon,Crewe Alexandra,0,0,0,0
+Accrington Stanley,Sutton United,0,0,0,0
+Bradford City,Harrogate Town,0,0,0,0
+Colchester United,Mansfield Town,0,0,0,0
+Crawley Town,Tranmere Rovers,0,0,0,0
+Forest Green Rovers,Doncaster Rovers,0,0,0,0
+Gillingham,Morecambe,0,0,0,0
+Milton Keynes Dons,Stockport County,0,0,0,0
+Swindon Town,Walsall,0,0,0,0
+Wrexham,Grimsby Town,0,0,0,0
+Newport County,Barrow,0,0,0,0
+Crewe Alexandra,Colchester United,0,0,0,0
+Doncaster Rovers,Gillingham,0,0,0,0
+Grimsby Town,Crawley Town,0,0,0,0
+Harrogate Town,Salford City,0,0,0,0
+Mansfield Town,Barrow,0,0,0,0
+Morecambe,Swindon Town,0,0,0,0
+Newport County,Bradford City,0,0,0,0
+Notts County,Forest Green Rovers,0,0,0,0
+Stockport County,Wrexham,0,0,0,0
+Sutton United,Milton Keynes Dons,0,0,0,0
+Tranmere Rovers,Accrington Stanley,0,0,0,0
+Walsall,AFC Wimbledon,0,0,0,0
+AFC Wimbledon,Tranmere Rovers,0,0,0,0
+Accrington Stanley,Stockport County,0,0,0,0
+Barrow,Doncaster Rovers,0,0,0,0
+Bradford City,Walsall,0,0,0,0
+Colchester United,Notts County,0,0,0,0
+Crawley Town,Sutton United,0,0,0,0
+Forest Green Rovers,Morecambe,0,0,0,0
+Gillingham,Mansfield Town,0,0,0,0
+Milton Keynes Dons,Harrogate Town,0,0,0,0
+Salford City,Newport County,0,0,0,0
+Swindon Town,Grimsby Town,0,0,0,0
+Wrexham,Crewe Alexandra,0,0,0,0
+Crewe Alexandra,Gillingham,0,0,0,0
+Doncaster Rovers,Crawley Town,0,0,0,0
+Grimsby Town,Barrow,0,0,0,0
+Harrogate Town,AFC Wimbledon,0,0,0,0
+Mansfield Town,Wrexham,0,0,0,0
+Morecambe,Accrington Stanley,0,0,0,0
+Newport County,Colchester United,0,0,0,0
+Notts County,Swindon Town,0,0,0,0
+Stockport County,Forest Green Rovers,0,0,0,0
+Sutton United,Salford City,0,0,0,0
+Tranmere Rovers,Bradford City,0,0,0,0
+Walsall,Milton Keynes Dons,0,0,0,0
+Accrington Stanley,Forest Green Rovers,0,0,0,0
+Barrow,Notts County,0,0,0,0
+Bradford City,Swindon Town,0,0,0,0
+Colchester United,Morecambe,0,0,0,0
+Crawley Town,Wrexham,0,0,0,0
+Gillingham,Milton Keynes Dons,0,0,0,0
+Mansfield Town,AFC Wimbledon,0,0,0,0
+Newport County,Harrogate Town,0,0,0,0
+Salford City,Crewe Alexandra,0,0,0,0
+Stockport County,Doncaster Rovers,0,0,0,0
+Sutton United,Walsall,0,0,0,0
+Tranmere Rovers,Grimsby Town,0,0,0,0
+AFC Wimbledon,Bradford City,0,0,0,0
+Crewe Alexandra,Tranmere Rovers,0,0,0,0
+Doncaster Rovers,Sutton United,0,0,0,0
+Forest Green Rovers,Colchester United,0,0,0,0
+Grimsby Town,Accrington Stanley,0,0,0,0
+Harrogate Town,Stockport County,0,0,0,0
+Milton Keynes Dons,Barrow,0,0,0,0
+Morecambe,Crawley Town,0,0,0,0
+Notts County,Mansfield Town,0,0,0,0
+Swindon Town,Newport County,0,0,0,0
+Walsall,Gillingham,0,0,0,0
+Wrexham,Salford City,0,0,0,0
+Newport County,Walsall,0,0,0,0
+Tranmere Rovers,Doncaster Rovers,0,0,0,0
+Accrington Stanley,Milton Keynes Dons,0,0,0,0
+Barrow,AFC Wimbledon,0,0,0,0
+Bradford City,Wrexham,0,0,0,0
+Colchester United,Harrogate Town,0,0,0,0
+Crawley Town,Crewe Alexandra,0,0,0,0
+Gillingham,Notts County,0,0,0,0
+Mansfield Town,Forest Green Rovers,0,0,0,0
+Salford City,Swindon Town,0,0,0,0
+Stockport County,Grimsby Town,0,0,0,0
+Sutton United,Morecambe,0,0,0,0
+AFC Wimbledon,Accrington Stanley,0,0,0,0
+Crewe Alexandra,Stockport County,0,0,0,0
+Doncaster Rovers,Salford City,0,0,0,0
+Forest Green Rovers,Barrow,0,0,0,0
+Grimsby Town,Colchester United,0,0,0,0
+Harrogate Town,Mansfield Town,0,0,0,0
+Milton Keynes Dons,Bradford City,0,0,0,0
+Morecambe,Tranmere Rovers,0,0,0,0
+Notts County,Newport County,0,0,0,0
+Swindon Town,Gillingham,0,0,0,0
+Walsall,Crawley Town,0,0,0,0
+Wrexham,Sutton United,0,0,0,0
+Accrington Stanley,Colchester United,0,0,0,0
+Barrow,Salford City,0,0,0,0
+Doncaster Rovers,Grimsby Town,0,0,0,0
+Forest Green Rovers,Crawley Town,0,0,0,0
+Gillingham,Newport County,0,0,0,0
+Harrogate Town,Crewe Alexandra,0,0,0,0
+Mansfield Town,Walsall,0,0,0,0
+Milton Keynes Dons,Swindon Town,0,0,0,0
+Morecambe,AFC Wimbledon,0,0,0,0
+Notts County,Wrexham,0,0,0,0
+Stockport County,Tranmere Rovers,0,0,0,0
+Sutton United,Bradford City,0,0,0,0
+AFC Wimbledon,Doncaster Rovers,0,0,0,0
+Bradford City,Barrow,0,0,0,0
+Colchester United,Sutton United,0,0,0,0
+Crawley Town,Accrington Stanley,0,0,0,0
+Crewe Alexandra,Notts County,0,0,0,0
+Grimsby Town,Morecambe,0,0,0,0
+Newport County,Milton Keynes Dons,0,0,0,0
+Salford City,Mansfield Town,0,0,0,0
+Swindon Town,Stockport County,0,0,0,0
+Tranmere Rovers,Forest Green Rovers,0,0,0,0
+Walsall,Harrogate Town,0,0,0,0
+Wrexham,Gillingham,0,0,0,0
+Accrington Stanley,Wrexham,0,0,0,0
+Barrow,Crawley Town,0,0,0,0
+Doncaster Rovers,Walsall,0,0,0,0
+Forest Green Rovers,Grimsby Town,0,0,0,0
+Gillingham,Salford City,0,0,0,0
+Harrogate Town,Swindon Town,0,0,0,0
+Mansfield Town,Newport County,0,0,0,0
+Milton Keynes Dons,AFC Wimbledon,0,0,0,0
+Morecambe,Crewe Alexandra,0,0,0,0
+Notts County,Bradford City,0,0,0,0
+Stockport County,Colchester United,0,0,0,0
+Sutton United,Tranmere Rovers,0,0,0,0
+AFC Wimbledon,Notts County,0,0,0,0
+Bradford City,Accrington Stanley,0,0,0,0
+Colchester United,Barrow,0,0,0,0
+Crawley Town,Harrogate Town,0,0,0,0
+Crewe Alexandra,Doncaster Rovers,0,0,0,0
+Grimsby Town,Sutton United,0,0,0,0
+Newport County,Stockport County,0,0,0,0
+Salford City,Milton Keynes Dons,0,0,0,0
+Swindon Town,Mansfield Town,0,0,0,0
+Tranmere Rovers,Gillingham,0,0,0,0
+Walsall,Forest Green Rovers,0,0,0,0
+Wrexham,Morecambe,0,0,0,0
+Accrington Stanley,Swindon Town,0,0,0,0
+Barrow,Walsall,0,0,0,0
+Doncaster Rovers,Colchester United,0,0,0,0
+Forest Green Rovers,Bradford City,0,0,0,0
+Gillingham,AFC Wimbledon,0,0,0,0
+Harrogate Town,Wrexham,0,0,0,0
+Mansfield Town,Tranmere Rovers,0,0,0,0
+Milton Keynes Dons,Grimsby Town,0,0,0,0
+Morecambe,Newport County,0,0,0,0
+Notts County,Crawley Town,0,0,0,0
+Stockport County,Salford City,0,0,0,0
+Sutton United,Crewe Alexandra,0,0,0,0
+AFC Wimbledon,Swindon Town,0,0,0,0
+Accrington Stanley,Doncaster Rovers,0,0,0,0
+Barrow,Gillingham,0,0,0,0
+Bradford City,Salford City,0,0,0,0
+Colchester United,Crawley Town,0,0,0,0
+Forest Green Rovers,Wrexham,0,0,0,0
+Grimsby Town,Crewe Alexandra,0,0,0,0
+Mansfield Town,Milton Keynes Dons,0,0,0,0
+Morecambe,Stockport County,0,0,0,0
+Notts County,Walsall,0,0,0,0
+Sutton United,Harrogate Town,0,0,0,0
+Tranmere Rovers,Newport County,0,0,0,0
+Crawley Town,Mansfield Town,0,0,0,0
+Crewe Alexandra,Accrington Stanley,0,0,0,0
+Doncaster Rovers,Morecambe,0,0,0,0
+Gillingham,Bradford City,0,0,0,0
+Harrogate Town,Notts County,0,0,0,0
+Milton Keynes Dons,Forest Green Rovers,0,0,0,0
+Newport County,Grimsby Town,0,0,0,0
+Salford City,AFC Wimbledon,0,0,0,0
+Stockport County,Sutton United,0,0,0,0
+Swindon Town,Barrow,0,0,0,0
+Walsall,Tranmere Rovers,0,0,0,0
+Wrexham,Colchester United,0,0,0,0
+Forest Green Rovers,Gillingham,0,0,0,0
+Colchester United,Salford City,0,0,0,0
+Crewe Alexandra,Barrow,0,0,0,0
+Stockport County,Notts County,0,0,0,0
+Accrington Stanley,Walsall,0,0,0,0
+Crawley Town,AFC Wimbledon,0,0,0,0
+Doncaster Rovers,Bradford City,0,0,0,0
+Grimsby Town,Harrogate Town,0,0,0,0
+Morecambe,Milton Keynes Dons,0,0,0,0
+Sutton United,Mansfield Town,0,0,0,0
+Tranmere Rovers,Swindon Town,0,0,0,0
+Wrexham,Newport County,0,0,0,0
+AFC Wimbledon,Sutton United,0,0,0,0
+Barrow,Stockport County,0,0,0,0
+Bradford City,Morecambe,0,0,0,0
+Gillingham,Crawley Town,0,0,0,0
+Harrogate Town,Accrington Stanley,0,0,0,0
+Mansfield Town,Grimsby Town,0,0,0,0
+Milton Keynes Dons,Colchester United,0,0,0,0
+Newport County,Forest Green Rovers,0,0,0,0
+Notts County,Doncaster Rovers,0,0,0,0
+Salford City,Tranmere Rovers,0,0,0,0
+Swindon Town,Wrexham,0,0,0,0
+Walsall,Crewe Alexandra,0,0,0,0
+AFC Wimbledon,Colchester United,0,0,0,0
+Barrow,Accrington Stanley,0,0,0,0
+Bradford City,Stockport County,0,0,0,0
+Gillingham,Sutton United,0,0,0,0
+Harrogate Town,Tranmere Rovers,0,0,0,0
+Mansfield Town,Doncaster Rovers,0,0,0,0
+Milton Keynes Dons,Crawley Town,0,0,0,0
+Newport County,Crewe Alexandra,0,0,0,0
+Notts County,Morecambe,0,0,0,0
+Salford City,Grimsby Town,0,0,0,0
+Swindon Town,Forest Green Rovers,0,0,0,0
+Walsall,Wrexham,0,0,0,0
+Accrington Stanley,Salford City,0,0,0,0
+Colchester United,Gillingham,0,0,0,0
+Crawley Town,Swindon Town,0,0,0,0
+Crewe Alexandra,Bradford City,0,0,0,0
+Doncaster Rovers,Milton Keynes Dons,0,0,0,0
+Forest Green Rovers,AFC Wimbledon,0,0,0,0
+Grimsby Town,Walsall,0,0,0,0
+Morecambe,Harrogate Town,0,0,0,0
+Stockport County,Mansfield Town,0,0,0,0
+Sutton United,Newport County,0,0,0,0
+Tranmere Rovers,Notts County,0,0,0,0
+Wrexham,Barrow,0,0,0,0
+Harrogate Town,Doncaster Rovers,0,0,0,0
+AFC Wimbledon,Grimsby Town,0,0,0,0
+Barrow,Tranmere Rovers,0,0,0,0
+Bradford City,Crawley Town,0,0,0,0
+Gillingham,Stockport County,0,0,0,0
+Mansfield Town,Crewe Alexandra,0,0,0,0
+Milton Keynes Dons,Wrexham,0,0,0,0
+Newport County,Accrington Stanley,0,0,0,0
+Notts County,Sutton United,0,0,0,0
+Salford City,Forest Green Rovers,0,0,0,0
+Swindon Town,Colchester United,0,0,0,0
+Walsall,Morecambe,0,0,0,0
+Accrington Stanley,Gillingham,0,0,0,0
+Colchester United,Bradford City,0,0,0,0
+Crawley Town,Salford City,0,0,0,0
+Crewe Alexandra,Swindon Town,0,0,0,0
+Doncaster Rovers,Newport County,0,0,0,0
+Forest Green Rovers,Harrogate Town,0,0,0,0
+Grimsby Town,Notts County,0,0,0,0
+Morecambe,Mansfield Town,0,0,0,0
+Stockport County,Walsall,0,0,0,0
+Sutton United,Barrow,0,0,0,0
+Tranmere Rovers,Milton Keynes Dons,0,0,0,0
+Wrexham,AFC Wimbledon,0,0,0,0
+Salford City,Colchester United,0,0,0,0
+AFC Wimbledon,Crawley Town,0,0,0,0
+Barrow,Crewe Alexandra,0,0,0,0
+Bradford City,Doncaster Rovers,0,0,0,0
+Gillingham,Forest Green Rovers,0,0,0,0
+Harrogate Town,Grimsby Town,0,0,0,0
+Mansfield Town,Sutton United,0,0,0,0
+Milton Keynes Dons,Morecambe,0,0,0,0
+Newport County,Wrexham,0,0,0,0
+Notts County,Stockport County,0,0,0,0
+Swindon Town,Tranmere Rovers,0,0,0,0
+Walsall,Accrington Stanley,0,0,0,0
+Harrogate Town,Newport County,0,0,0,0
+AFC Wimbledon,Mansfield Town,0,0,0,0
+Crewe Alexandra,Salford City,0,0,0,0
+Doncaster Rovers,Stockport County,0,0,0,0
+Forest Green Rovers,Accrington Stanley,0,0,0,0
+Grimsby Town,Tranmere Rovers,0,0,0,0
+Milton Keynes Dons,Gillingham,0,0,0,0
+Morecambe,Colchester United,0,0,0,0
+Notts County,Barrow,0,0,0,0
+Swindon Town,Bradford City,0,0,0,0
+Walsall,Sutton United,0,0,0,0
+Wrexham,Crawley Town,0,0,0,0
+Accrington Stanley,Grimsby Town,0,0,0,0
+Barrow,Milton Keynes Dons,0,0,0,0
+Bradford City,AFC Wimbledon,0,0,0,0
+Colchester United,Forest Green Rovers,0,0,0,0
+Crawley Town,Morecambe,0,0,0,0
+Gillingham,Walsall,0,0,0,0
+Mansfield Town,Notts County,0,0,0,0
+Newport County,Swindon Town,0,0,0,0
+Salford City,Wrexham,0,0,0,0
+Stockport County,Harrogate Town,0,0,0,0
+Sutton United,Doncaster Rovers,0,0,0,0
+Tranmere Rovers,Crewe Alexandra,0,0,0,0
+Notts County,Gillingham,0,0,0,0
+AFC Wimbledon,Barrow,0,0,0,0
+Crewe Alexandra,Crawley Town,0,0,0,0
+Doncaster Rovers,Tranmere Rovers,0,0,0,0
+Forest Green Rovers,Mansfield Town,0,0,0,0
+Grimsby Town,Stockport County,0,0,0,0
+Harrogate Town,Colchester United,0,0,0,0
+Milton Keynes Dons,Accrington Stanley,0,0,0,0
+Morecambe,Sutton United,0,0,0,0
+Swindon Town,Salford City,0,0,0,0
+Walsall,Newport County,0,0,0,0
+Wrexham,Bradford City,0,0,0,0
+Accrington Stanley,AFC Wimbledon,0,0,0,0
+Barrow,Forest Green Rovers,0,0,0,0
+Bradford City,Milton Keynes Dons,0,0,0,0
+Colchester United,Grimsby Town,0,0,0,0
+Crawley Town,Walsall,0,0,0,0
+Gillingham,Swindon Town,0,0,0,0
+Mansfield Town,Harrogate Town,0,0,0,0
+Newport County,Notts County,0,0,0,0
+Salford City,Doncaster Rovers,0,0,0,0
+Stockport County,Crewe Alexandra,0,0,0,0
+Sutton United,Wrexham,0,0,0,0
+Tranmere Rovers,Morecambe,0,0,0,0
+AFC Wimbledon,Morecambe,0,0,0,0
+Bradford City,Sutton United,0,0,0,0
+Colchester United,Accrington Stanley,0,0,0,0
+Crawley Town,Forest Green Rovers,0,0,0,0
+Crewe Alexandra,Harrogate Town,0,0,0,0
+Grimsby Town,Doncaster Rovers,0,0,0,0
+Newport County,Gillingham,0,0,0,0
+Salford City,Barrow,0,0,0,0
+Swindon Town,Milton Keynes Dons,0,0,0,0
+Tranmere Rovers,Stockport County,0,0,0,0
+Walsall,Mansfield Town,0,0,0,0
+Wrexham,Notts County,0,0,0,0
+Accrington Stanley,Crawley Town,0,0,0,0
+Barrow,Bradford City,0,0,0,0
+Doncaster Rovers,AFC Wimbledon,0,0,0,0
+Forest Green Rovers,Tranmere Rovers,0,0,0,0
+Gillingham,Wrexham,0,0,0,0
+Harrogate Town,Walsall,0,0,0,0
+Mansfield Town,Salford City,0,0,0,0
+Milton Keynes Dons,Newport County,0,0,0,0
+Morecambe,Grimsby Town,0,0,0,0
+Notts County,Crewe Alexandra,0,0,0,0
+Stockport County,Swindon Town,0,0,0,0
+Sutton United,Colchester United,0,0,0,0
+AFC Wimbledon,Milton Keynes Dons,0,0,0,0
+Bradford City,Notts County,0,0,0,0
+Colchester United,Stockport County,0,0,0,0
+Crawley Town,Barrow,0,0,0,0
+Crewe Alexandra,Morecambe,0,0,0,0
+Grimsby Town,Forest Green Rovers,0,0,0,0
+Newport County,Mansfield Town,0,0,0,0
+Salford City,Gillingham,0,0,0,0
+Swindon Town,Harrogate Town,0,0,0,0
+Tranmere Rovers,Sutton United,0,0,0,0
+Walsall,Doncaster Rovers,0,0,0,0
+Wrexham,Accrington Stanley,0,0,0,0
+Accrington Stanley,Bradford City,0,0,0,0
+Barrow,Colchester United,0,0,0,0
+Doncaster Rovers,Crewe Alexandra,0,0,0,0
+Forest Green Rovers,Walsall,0,0,0,0
+Gillingham,Tranmere Rovers,0,0,0,0
+Harrogate Town,Crawley Town,0,0,0,0
+Mansfield Town,Swindon Town,0,0,0,0
+Milton Keynes Dons,Salford City,0,0,0,0
+Morecambe,Wrexham,0,0,0,0
+Notts County,AFC Wimbledon,0,0,0,0
+Stockport County,Newport County,0,0,0,0
+Sutton United,Grimsby Town,0,0,0,0
+AFC Wimbledon,Gillingham,0,0,0,0
+Bradford City,Forest Green Rovers,0,0,0,0
+Colchester United,Doncaster Rovers,0,0,0,0
+Crawley Town,Notts County,0,0,0,0
+Crewe Alexandra,Sutton United,0,0,0,0
+Grimsby Town,Milton Keynes Dons,0,0,0,0
+Newport County,Morecambe,0,0,0,0
+Salford City,Stockport County,0,0,0,0
+Swindon Town,Accrington Stanley,0,0,0,0
+Tranmere Rovers,Mansfield Town,0,0,0,0
+Walsall,Barrow,0,0,0,0
+Wrexham,Harrogate Town,0,0,0,0
+AFC Wimbledon,Newport County,0,0,0,0
+Accrington Stanley,Notts County,0,0,0,0
+Barrow,Harrogate Town,0,0,0,0
+Bradford City,Mansfield Town,0,0,0,0
+Colchester United,Walsall,0,0,0,0
+Crawley Town,Stockport County,0,0,0,0
+Forest Green Rovers,Sutton United,0,0,0,0
+Gillingham,Grimsby Town,0,0,0,0
+Milton Keynes Dons,Crewe Alexandra,0,0,0,0
+Salford City,Morecambe,0,0,0,0
+Swindon Town,Doncaster Rovers,0,0,0,0
+Wrexham,Tranmere Rovers,0,0,0,0
+Harrogate Town,Bradford City,0,0,0,0
+Barrow,Newport County,0,0,0,0
+Crewe Alexandra,AFC Wimbledon,0,0,0,0
+Doncaster Rovers,Forest Green Rovers,0,0,0,0
+Grimsby Town,Wrexham,0,0,0,0
+Mansfield Town,Colchester United,0,0,0,0
+Morecambe,Gillingham,0,0,0,0
+Notts County,Salford City,0,0,0,0
+Stockport County,Milton Keynes Dons,0,0,0,0
+Sutton United,Accrington Stanley,0,0,0,0
+Tranmere Rovers,Crawley Town,0,0,0,0
+Walsall,Swindon Town,0,0,0,0
+AFC Wimbledon,Harrogate Town,0,0,0,0
+Accrington Stanley,Morecambe,0,0,0,0
+Barrow,Grimsby Town,0,0,0,0
+Bradford City,Tranmere Rovers,0,0,0,0
+Colchester United,Newport County,0,0,0,0
+Crawley Town,Doncaster Rovers,0,0,0,0
+Forest Green Rovers,Stockport County,0,0,0,0
+Gillingham,Crewe Alexandra,0,0,0,0
+Milton Keynes Dons,Walsall,0,0,0,0
+Salford City,Sutton United,0,0,0,0
+Swindon Town,Notts County,0,0,0,0
+Wrexham,Mansfield Town,0,0,0,0
+Grimsby Town,Bradford City,0,0,0,0
+Crewe Alexandra,Forest Green Rovers,0,0,0,0
+Harrogate Town,Gillingham,0,0,0,0
+Mansfield Town,Accrington Stanley,0,0,0,0
+Morecambe,Barrow,0,0,0,0
+Newport County,Crawley Town,0,0,0,0
+Notts County,Milton Keynes Dons,0,0,0,0
+Stockport County,AFC Wimbledon,0,0,0,0
+Sutton United,Swindon Town,0,0,0,0
+Tranmere Rovers,Colchester United,0,0,0,0
+Walsall,Salford City,0,0,0,0
+Doncaster Rovers,Wrexham,0,0,0,0
+AFC Wimbledon,Salford City,0,0,0,0
+Accrington Stanley,Crewe Alexandra,0,0,0,0
+Barrow,Swindon Town,0,0,0,0
+Bradford City,Gillingham,0,0,0,0
+Colchester United,Wrexham,0,0,0,0
+Forest Green Rovers,Milton Keynes Dons,0,0,0,0
+Grimsby Town,Newport County,0,0,0,0
+Mansfield Town,Crawley Town,0,0,0,0
+Morecambe,Doncaster Rovers,0,0,0,0
+Notts County,Harrogate Town,0,0,0,0
+Sutton United,Stockport County,0,0,0,0
+Tranmere Rovers,Walsall,0,0,0,0
+Crawley Town,Colchester United,0,0,0,0
+Crewe Alexandra,Grimsby Town,0,0,0,0
+Doncaster Rovers,Accrington Stanley,0,0,0,0
+Gillingham,Barrow,0,0,0,0
+Harrogate Town,Sutton United,0,0,0,0
+Milton Keynes Dons,Mansfield Town,0,0,0,0
+Newport County,Tranmere Rovers,0,0,0,0
+Salford City,Bradford City,0,0,0,0
+Stockport County,Morecambe,0,0,0,0
+Swindon Town,AFC Wimbledon,0,0,0,0
+Walsall,Notts County,0,0,0,0
+Wrexham,Forest Green Rovers,0,0,0,0
+Crewe Alexandra,Wrexham,0,0,0,0
+Doncaster Rovers,Barrow,0,0,0,0
+Grimsby Town,Swindon Town,0,0,0,0
+Harrogate Town,Milton Keynes Dons,0,0,0,0
+Mansfield Town,Gillingham,0,0,0,0
+Morecambe,Forest Green Rovers,0,0,0,0
+Newport County,Salford City,0,0,0,0
+Notts County,Colchester United,0,0,0,0
+Stockport County,Accrington Stanley,0,0,0,0
+Sutton United,Crawley Town,0,0,0,0
+Tranmere Rovers,AFC Wimbledon,0,0,0,0
+Walsall,Bradford City,0,0,0,0
+AFC Wimbledon,Walsall,0,0,0,0
+Accrington Stanley,Tranmere Rovers,0,0,0,0
+Barrow,Mansfield Town,0,0,0,0
+Bradford City,Newport County,0,0,0,0
+Colchester United,Crewe Alexandra,0,0,0,0
+Crawley Town,Grimsby Town,0,0,0,0
+Forest Green Rovers,Notts County,0,0,0,0
+Gillingham,Doncaster Rovers,0,0,0,0
+Milton Keynes Dons,Sutton United,0,0,0,0
+Salford City,Harrogate Town,0,0,0,0
+Swindon Town,Morecambe,0,0,0,0
+Wrexham,Stockport County,0,0,0,0

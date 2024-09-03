@@ -1,0 +1,307 @@
+HomeTeam,AwayTeam,HomeGoalCount,AwayGoalCount,BTTS,OverUnder
+Bourg-en-Bresse,Villefranche,1,1,1,0
+Sète,Bastia-Borgo,2,0,0,0
+Laval,Orléans,1,2,1,1
+Créteil,Avranches,0,0,0,0
+Châteauroux,Cholet,2,0,0,0
+Sedan,Annecy,1,1,1,0
+Le Mans,Stade Briochin,1,0,0,0
+Boulogne,Chambly,1,1,1,0
+Concarneau,Red Star,2,0,0,0
+Annecy,Laval,1,0,0,0
+Bastia-Borgo,Bourg-en-Bresse,2,2,1,1
+Red Star,Boulogne,1,3,1,1
+Cholet,Sète,3,1,1,1
+Stade Briochin,Chambly,0,1,0,0
+Orléans,Concarneau,0,0,0,0
+Le Mans,Créteil,2,1,1,1
+Avranches,Châteauroux,3,1,1,1
+Villefranche,Sedan,1,0,0,0
+Bourg-en-Bresse,Cholet,4,0,0,1
+Sète,Avranches,1,2,1,1
+Laval,Villefranche,0,0,0,0
+Créteil,Stade Briochin,0,0,0,0
+Sedan,Bastia-Borgo,1,0,0,0
+Chambly,Red Star,1,2,1,1
+Boulogne,Orléans,1,1,1,0
+Concarneau,Annecy,2,1,1,1
+Châteauroux,Le Mans,2,1,1,1
+Annecy,Boulogne,2,0,0,0
+Bastia-Borgo,Laval,2,2,1,1
+Cholet,Sedan,1,1,1,0
+Stade Briochin,Red Star,2,1,1,1
+Créteil,Châteauroux,1,1,1,0
+Orléans,Chambly,0,1,0,0
+Villefranche,Concarneau,1,1,1,0
+Avranches,Bourg-en-Bresse,0,3,0,1
+Le Mans,Sète,3,0,0,1
+Bourg-en-Bresse,Le Mans,1,1,1,0
+Sète,Créteil,3,1,1,1
+Laval,Cholet,2,1,1,1
+Châteauroux,Stade Briochin,0,0,0,0
+Sedan,Avranches,2,0,0,0
+Chambly,Annecy,0,1,0,0
+Boulogne,Villefranche,0,1,0,0
+Concarneau,Bastia-Borgo,2,1,1,1
+Red Star,Orléans,1,0,0,0
+Annecy,Red Star,6,0,0,1
+Bastia-Borgo,Boulogne,0,3,0,1
+Cholet,Concarneau,4,2,1,1
+Stade Briochin,Orléans,2,1,1,1
+Créteil,Bourg-en-Bresse,1,6,1,1
+Châteauroux,Sète,1,0,0,0
+Villefranche,Chambly,3,0,0,1
+Avranches,Laval,0,1,0,0
+Le Mans,Sedan,0,2,0,0
+Bourg-en-Bresse,Châteauroux,1,0,0,0
+Red Star,Villefranche,0,1,0,0
+Sète,Stade Briochin,0,0,0,0
+Laval,Le Mans,2,1,1,1
+Orléans,Annecy,2,2,1,1
+Sedan,Créteil,0,0,0,0
+Chambly,Bastia-Borgo,2,2,1,1
+Boulogne,Cholet,2,3,1,1
+Concarneau,Avranches,1,3,1,1
+Bastia-Borgo,Red Star,2,2,1,1
+Sète,Bourg-en-Bresse,2,5,1,1
+Cholet,Chambly,2,0,0,0
+Stade Briochin,Annecy,1,2,1,1
+Créteil,Laval,0,1,0,0
+Villefranche,Orléans,1,0,0,0
+Le Mans,Concarneau,1,1,1,0
+Avranches,Boulogne,1,0,0,0
+Châteauroux,Sedan,1,1,1,0
+Bourg-en-Bresse,Stade Briochin,2,0,0,0
+Red Star,Cholet,4,2,1,1
+Laval,Châteauroux,1,2,1,1
+Orléans,Bastia-Borgo,4,0,0,1
+Sedan,Sète,1,0,0,0
+Chambly,Avranches,4,2,1,1
+Boulogne,Le Mans,0,0,0,0
+Concarneau,Créteil,1,0,0,0
+Annecy,Villefranche,2,0,0,0
+Bastia-Borgo,Annecy,1,2,1,1
+Sète,Laval,0,1,0,0
+Cholet,Orléans,3,1,1,1
+Stade Briochin,Villefranche,0,0,0,0
+Créteil,Boulogne,3,2,1,1
+Châteauroux,Concarneau,0,2,0,0
+Le Mans,Chambly,2,0,0,0
+Avranches,Red Star,0,6,0,1
+Bourg-en-Bresse,Sedan,0,0,0,0
+Annecy,Cholet,3,0,0,1
+Laval,Bourg-en-Bresse,1,2,1,1
+Orléans,Avranches,0,0,0,0
+Sedan,Stade Briochin,2,1,1,1
+Chambly,Créteil,4,0,0,1
+Villefranche,Bastia-Borgo,1,1,1,0
+Boulogne,Châteauroux,1,1,1,0
+Concarneau,Sète,2,0,0,0
+Red Star,Le Mans,1,2,1,1
+Bourg-en-Bresse,Concarneau,0,2,0,0
+Sète,Boulogne,4,0,0,1
+Cholet,Villefranche,3,4,1,1
+Châteauroux,Chambly,2,1,1,1
+Avranches,Annecy,2,0,0,0
+Stade Briochin,Bastia-Borgo,3,0,0,1
+Sedan,Laval,0,1,0,0
+Créteil,Red Star,1,0,0,0
+Le Mans,Orléans,0,0,0,0
+Annecy,Le Mans,1,1,1,0
+Bastia-Borgo,Cholet,1,2,1,1
+Red Star,Châteauroux,0,2,0,0
+Laval,Stade Briochin,2,0,0,0
+Orléans,Créteil,2,1,1,1
+Chambly,Sète,1,4,1,1
+Villefranche,Avranches,3,0,0,1
+Boulogne,Bourg-en-Bresse,1,2,1,1
+Concarneau,Sedan,1,1,1,0
+Bourg-en-Bresse,Chambly,3,1,1,1
+Sète,Red Star,2,1,1,1
+Stade Briochin,Cholet,1,1,1,0
+Créteil,Annecy,0,1,0,0
+Châteauroux,Orléans,4,1,1,1
+Sedan,Boulogne,0,0,0,0
+Le Mans,Villefranche,0,2,0,0
+Avranches,Bastia-Borgo,3,2,1,1
+Laval,Concarneau,0,1,0,0
+Bastia-Borgo,Le Mans,1,0,0,0
+Red Star,Bourg-en-Bresse,2,1,1,1
+Orléans,Sète,0,1,0,0
+Chambly,Sedan,2,2,1,1
+Villefranche,Créteil,1,0,0,0
+Boulogne,Laval,1,2,1,1
+Cholet,Avranches,1,1,1,0
+Concarneau,Stade Briochin,3,0,0,1
+Annecy,Châteauroux,0,0,0,0
+Bourg-en-Bresse,Orléans,0,1,0,0
+Sète,Annecy,0,0,0,0
+Stade Briochin,Avranches,2,1,1,1
+Laval,Chambly,2,1,1,1
+Créteil,Bastia-Borgo,3,0,0,1
+Châteauroux,Villefranche,0,0,0,0
+Concarneau,Boulogne,1,0,0,0
+Sedan,Red Star,1,3,1,1
+Bastia-Borgo,Châteauroux,2,0,0,0
+Red Star,Laval,1,2,1,1
+Stade Briochin,Boulogne,3,0,0,1
+Chambly,Concarneau,0,2,0,0
+Annecy,Bourg-en-Bresse,2,0,0,0
+Bourg-en-Bresse,Bastia-Borgo,0,0,0,0
+Créteil,Le Mans,2,3,1,1
+Châteauroux,Avranches,3,0,0,1
+Sedan,Villefranche,2,1,1,1
+Chambly,Stade Briochin,1,1,1,0
+Laval,Annecy,1,0,0,0
+Bastia-Borgo,Sedan,3,1,1,1
+Red Star,Chambly,1,2,1,1
+Cholet,Bourg-en-Bresse,2,1,1,1
+Stade Briochin,Créteil,0,1,0,0
+Orléans,Boulogne,2,1,1,1
+Villefranche,Laval,1,2,1,1
+Le Mans,Châteauroux,1,0,0,0
+Avranches,Sète,2,1,1,1
+Annecy,Concarneau,0,0,0,0
+Orléans,Sedan,4,2,1,1
+Le Mans,Cholet,1,0,0,0
+Villefranche,Sète,0,2,0,0
+Boulogne,Red Star,0,4,0,1
+Avranches,Le Mans,0,1,0,0
+Cholet,Créteil,3,2,1,1
+Concarneau,Orléans,0,1,0,0
+Bourg-en-Bresse,Avranches,2,0,0,0
+Red Star,Stade Briochin,1,1,1,0
+Sète,Le Mans,0,0,0,0
+Laval,Bastia-Borgo,1,0,0,0
+Châteauroux,Créteil,4,1,1,1
+Sedan,Cholet,3,1,1,1
+Chambly,Orléans,2,2,1,1
+Boulogne,Annecy,1,1,1,0
+Concarneau,Villefranche,2,0,0,0
+Sète,Cholet,0,1,0,0
+Annecy,Chambly,3,2,1,1
+Bastia-Borgo,Concarneau,1,1,1,0
+Stade Briochin,Châteauroux,2,0,0,0
+Le Mans,Bourg-en-Bresse,1,2,1,1
+Avranches,Sedan,0,3,0,1
+Cholet,Laval,1,3,1,1
+Orléans,Red Star,1,0,0,0
+Sète,Châteauroux,0,1,0,0
+Laval,Avranches,0,0,0,0
+Orléans,Stade Briochin,0,0,0,0
+Sedan,Le Mans,2,0,0,0
+Chambly,Villefranche,0,2,0,0
+Concarneau,Cholet,2,0,0,0
+Bourg-en-Bresse,Créteil,3,2,1,1
+Red Star,Annecy,3,0,0,1
+Bastia-Borgo,Chambly,4,0,0,1
+Cholet,Boulogne,2,2,1,1
+Stade Briochin,Sète,3,1,1,1
+Créteil,Sedan,1,2,1,1
+Châteauroux,Bourg-en-Bresse,1,1,1,0
+Villefranche,Red Star,0,0,0,0
+Avranches,Concarneau,1,1,1,0
+Le Mans,Laval,2,0,0,0
+Annecy,Orléans,0,0,0,0
+Créteil,Sète,3,1,1,1
+Villefranche,Boulogne,2,1,1,1
+Annecy,Stade Briochin,2,4,1,1
+Red Star,Bastia-Borgo,5,2,1,1
+Sedan,Châteauroux,0,2,0,0
+Chambly,Cholet,2,2,1,1
+Boulogne,Avranches,1,2,1,1
+Bourg-en-Bresse,Sète,1,1,1,0
+Laval,Créteil,3,1,1,1
+Orléans,Villefranche,1,2,1,1
+Concarneau,Le Mans,0,1,0,0
+Bastia-Borgo,Orléans,2,2,1,1
+Sète,Sedan,1,1,1,0
+Cholet,Red Star,0,1,0,0
+Stade Briochin,Bourg-en-Bresse,1,0,0,0
+Créteil,Concarneau,2,2,1,1
+Villefranche,Annecy,1,2,1,1
+Le Mans,Boulogne,1,0,0,0
+Avranches,Chambly,1,0,0,0
+Châteauroux,Laval,1,1,1,0
+Annecy,Bastia-Borgo,3,1,1,1
+Red Star,Avranches,2,1,1,1
+Laval,Sète,1,0,0,0
+Orléans,Cholet,0,0,0,0
+Sedan,Bourg-en-Bresse,0,2,0,0
+Chambly,Le Mans,2,2,1,1
+Villefranche,Stade Briochin,1,3,1,1
+Boulogne,Créteil,0,0,0,0
+Concarneau,Châteauroux,0,0,0,0
+Bastia-Borgo,Villefranche,1,3,1,1
+Sète,Concarneau,1,1,1,0
+Cholet,Annecy,1,4,1,1
+Stade Briochin,Sedan,2,0,0,0
+Créteil,Chambly,2,0,0,0
+Châteauroux,Boulogne,0,1,0,0
+Le Mans,Red Star,1,1,1,0
+Avranches,Orléans,1,2,1,1
+Bourg-en-Bresse,Laval,1,2,1,1
+Annecy,Avranches,4,1,1,1
+Bastia-Borgo,Stade Briochin,2,1,1,1
+Red Star,Créteil,1,1,1,0
+Orléans,Le Mans,2,1,1,1
+Chambly,Châteauroux,0,2,0,0
+Villefranche,Cholet,3,2,1,1
+Boulogne,Sète,1,0,0,0
+Concarneau,Bourg-en-Bresse,1,1,1,0
+Laval,Sedan,3,0,0,1
+Boulogne,Bastia-Borgo,2,1,1,1
+Sète,Chambly,1,1,1,0
+Stade Briochin,Laval,2,2,1,1
+Créteil,Orléans,0,1,0,0
+Châteauroux,Red Star,4,2,1,1
+Le Mans,Annecy,2,2,1,1
+Avranches,Villefranche,1,1,1,0
+Bourg-en-Bresse,Boulogne,3,1,1,1
+Cholet,Bastia-Borgo,1,1,1,0
+Sedan,Concarneau,2,2,1,1
+Annecy,Créteil,1,0,0,0
+Bastia-Borgo,Avranches,1,2,1,1
+Red Star,Sète,0,3,0,1
+Cholet,Stade Briochin,0,3,0,1
+Orléans,Châteauroux,1,2,1,1
+Chambly,Bourg-en-Bresse,2,1,1,1
+Villefranche,Le Mans,1,0,0,0
+Boulogne,Sedan,1,1,1,0
+Concarneau,Laval,2,2,1,1
+Bourg-en-Bresse,Red Star,0,2,0,0
+Sète,Orléans,1,0,0,0
+Stade Briochin,Concarneau,1,3,1,1
+Créteil,Villefranche,0,2,0,0
+Châteauroux,Annecy,0,1,0,0
+Le Mans,Bastia-Borgo,0,1,0,0
+Avranches,Cholet,0,2,0,0
+Sedan,Chambly,1,0,0,0
+Laval,Boulogne,1,0,0,0
+Annecy,Sète,3,0,0,1
+Bastia-Borgo,Créteil,2,0,0,0
+Red Star,Sedan,0,1,0,0
+Cholet,Le Mans,1,0,0,0
+Orléans,Bourg-en-Bresse,0,0,0,0
+Villefranche,Châteauroux,2,1,1,1
+Avranches,Stade Briochin,2,5,1,1
+Boulogne,Concarneau,1,0,0,0
+Chambly,Laval,0,3,0,1
+Bourg-en-Bresse,Annecy,3,0,0,1
+Sète,Villefranche,0,1,0,0
+Laval,Red Star,2,2,1,1
+Créteil,Cholet,4,4,1,1
+Châteauroux,Bastia-Borgo,0,0,0,0
+Sedan,Orléans,1,0,0,0
+Le Mans,Avranches,1,3,1,1
+Boulogne,Stade Briochin,0,1,0,0
+Concarneau,Chambly,4,0,0,1
+Annecy,Sedan,2,0,0,0
+Bastia-Borgo,Sète,1,2,1,1
+Red Star,Concarneau,5,1,1,1
+Cholet,Châteauroux,0,1,0,0
+Stade Briochin,Le Mans,2,2,1,1
+Orléans,Laval,3,2,1,1
+Chambly,Boulogne,1,0,0,0
+Villefranche,Bourg-en-Bresse,4,1,1,1
+Avranches,Créteil,2,1,1,1
